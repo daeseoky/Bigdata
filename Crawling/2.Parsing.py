@@ -11,11 +11,11 @@
         - 문서 해독
         - 마크업 문서(HTML, XML)에서 특정 태그의 데이터를 추출 가공 처리하는 과정
 """
-import requests as reg
+import requests as req
 from bs4 import BeautifulSoup as bs
 
 # # 페이지 요청
-# html = reg.get('http://chhak.or.kr/test.html').text
+# html = req.get('http://chhak.or.kr/test.html').text
 # print(html)
 #
 # # 문서객체 생성
@@ -42,8 +42,8 @@ from bs4 import BeautifulSoup as bs
 # 페이지 요청
 url = 'https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=105&sid2=230'
 
-# 크롤링 방지를 위한 보안을 통과하기위해 유저 지정을 해줌
-result = reg.get(url, headers={'User-Agent': 'Mozilla/5.0'}).text
+# 크롤링 방지를 위한 보안을 통과하기 위해 유저 지정을 브라우져로 해줌
+result = req.get(url, headers={'User-Agent': 'Mozilla/5.0'}).text
 
 
 # 문서객체 생성
