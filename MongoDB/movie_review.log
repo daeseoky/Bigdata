@@ -15799,3 +15799,1839 @@
 2022-03-07 17:35:00,370 - movie_logger - INFO - 265,장민호 드라마 최종회
 2022-03-07 17:35:00,415 - movie_logger - INFO - 266,장민호 드라마 최종회
 2022-03-07 17:35:00,462 - movie_logger - INFO - 267,장민호 드라마 최종회
+2022-03-08 14:39:53,354 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 14:39:53,668 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 14:39:54,559 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 14:39:54,575 - movie_logger - INFO - 영화 제목 수집 : 클라우스
+2022-03-08 14:39:54,594 - movie_logger - INFO - iframe으로 전환
+2022-03-08 14:39:54,630 - movie_logger - INFO - 1,클라우스
+2022-03-08 14:39:54,659 - movie_logger - INFO - 2,클라우스
+2022-03-08 14:39:54,687 - movie_logger - INFO - 3,클라우스
+2022-03-08 14:39:54,716 - movie_logger - INFO - 4,클라우스
+2022-03-08 14:39:54,746 - movie_logger - INFO - 5,클라우스
+2022-03-08 14:39:54,777 - movie_logger - INFO - 6,클라우스
+2022-03-08 14:39:54,807 - movie_logger - INFO - 7,클라우스
+2022-03-08 14:39:54,836 - movie_logger - INFO - 8,클라우스
+2022-03-08 14:39:54,865 - movie_logger - INFO - 9,클라우스
+2022-03-08 14:39:54,901 - movie_logger - INFO - 10,클라우스
+2022-03-08 14:39:55,045 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:55,082 - movie_logger - INFO - 11,클라우스
+2022-03-08 14:39:55,113 - movie_logger - INFO - 12,클라우스
+2022-03-08 14:39:55,144 - movie_logger - INFO - 13,클라우스
+2022-03-08 14:39:55,177 - movie_logger - INFO - 14,클라우스
+2022-03-08 14:39:55,207 - movie_logger - INFO - 15,클라우스
+2022-03-08 14:39:55,237 - movie_logger - INFO - 16,클라우스
+2022-03-08 14:39:55,267 - movie_logger - INFO - 17,클라우스
+2022-03-08 14:39:55,296 - movie_logger - INFO - 18,클라우스
+2022-03-08 14:39:55,327 - movie_logger - INFO - 19,클라우스
+2022-03-08 14:39:55,360 - movie_logger - INFO - 20,클라우스
+2022-03-08 14:39:55,502 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:55,540 - movie_logger - INFO - 21,클라우스
+2022-03-08 14:39:55,572 - movie_logger - INFO - 22,클라우스
+2022-03-08 14:39:55,603 - movie_logger - INFO - 23,클라우스
+2022-03-08 14:39:55,635 - movie_logger - INFO - 24,클라우스
+2022-03-08 14:39:55,666 - movie_logger - INFO - 25,클라우스
+2022-03-08 14:39:55,696 - movie_logger - INFO - 26,클라우스
+2022-03-08 14:39:55,727 - movie_logger - INFO - 27,클라우스
+2022-03-08 14:39:55,757 - movie_logger - INFO - 28,클라우스
+2022-03-08 14:39:55,791 - movie_logger - INFO - 29,클라우스
+2022-03-08 14:39:55,822 - movie_logger - INFO - 30,클라우스
+2022-03-08 14:39:55,951 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:55,986 - movie_logger - INFO - 31,클라우스
+2022-03-08 14:39:56,014 - movie_logger - INFO - 32,클라우스
+2022-03-08 14:39:56,042 - movie_logger - INFO - 33,클라우스
+2022-03-08 14:39:56,072 - movie_logger - INFO - 34,클라우스
+2022-03-08 14:39:56,103 - movie_logger - INFO - 35,클라우스
+2022-03-08 14:39:56,131 - movie_logger - INFO - 36,클라우스
+2022-03-08 14:39:56,160 - movie_logger - INFO - 37,클라우스
+2022-03-08 14:39:56,189 - movie_logger - INFO - 38,클라우스
+2022-03-08 14:39:56,217 - movie_logger - INFO - 39,클라우스
+2022-03-08 14:39:56,247 - movie_logger - INFO - 40,클라우스
+2022-03-08 14:39:56,377 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:56,413 - movie_logger - INFO - 41,클라우스
+2022-03-08 14:39:56,443 - movie_logger - INFO - 42,클라우스
+2022-03-08 14:39:56,473 - movie_logger - INFO - 43,클라우스
+2022-03-08 14:39:56,502 - movie_logger - INFO - 44,클라우스
+2022-03-08 14:39:56,531 - movie_logger - INFO - 45,클라우스
+2022-03-08 14:39:56,561 - movie_logger - INFO - 46,클라우스
+2022-03-08 14:39:56,591 - movie_logger - INFO - 47,클라우스
+2022-03-08 14:39:56,621 - movie_logger - INFO - 48,클라우스
+2022-03-08 14:39:56,651 - movie_logger - INFO - 49,클라우스
+2022-03-08 14:39:56,681 - movie_logger - INFO - 50,클라우스
+2022-03-08 14:39:56,810 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:56,846 - movie_logger - INFO - 51,클라우스
+2022-03-08 14:39:56,876 - movie_logger - INFO - 52,클라우스
+2022-03-08 14:39:56,907 - movie_logger - INFO - 53,클라우스
+2022-03-08 14:39:56,936 - movie_logger - INFO - 54,클라우스
+2022-03-08 14:39:56,968 - movie_logger - INFO - 55,클라우스
+2022-03-08 14:39:56,996 - movie_logger - INFO - 56,클라우스
+2022-03-08 14:39:57,026 - movie_logger - INFO - 57,클라우스
+2022-03-08 14:39:57,056 - movie_logger - INFO - 58,클라우스
+2022-03-08 14:39:57,086 - movie_logger - INFO - 59,클라우스
+2022-03-08 14:39:57,118 - movie_logger - INFO - 60,클라우스
+2022-03-08 14:39:57,250 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:57,298 - movie_logger - INFO - 61,클라우스
+2022-03-08 14:39:57,329 - movie_logger - INFO - 62,클라우스
+2022-03-08 14:39:57,356 - movie_logger - INFO - 63,클라우스
+2022-03-08 14:39:57,386 - movie_logger - INFO - 64,클라우스
+2022-03-08 14:39:57,415 - movie_logger - INFO - 65,클라우스
+2022-03-08 14:39:57,444 - movie_logger - INFO - 66,클라우스
+2022-03-08 14:39:57,476 - movie_logger - INFO - 67,클라우스
+2022-03-08 14:39:57,506 - movie_logger - INFO - 68,클라우스
+2022-03-08 14:39:57,535 - movie_logger - INFO - 69,클라우스
+2022-03-08 14:39:57,564 - movie_logger - INFO - 70,클라우스
+2022-03-08 14:39:57,691 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:57,729 - movie_logger - INFO - 71,클라우스
+2022-03-08 14:39:57,760 - movie_logger - INFO - 72,클라우스
+2022-03-08 14:39:57,789 - movie_logger - INFO - 73,클라우스
+2022-03-08 14:39:57,818 - movie_logger - INFO - 74,클라우스
+2022-03-08 14:39:57,849 - movie_logger - INFO - 75,클라우스
+2022-03-08 14:39:57,879 - movie_logger - INFO - 76,클라우스
+2022-03-08 14:39:57,908 - movie_logger - INFO - 77,클라우스
+2022-03-08 14:39:57,938 - movie_logger - INFO - 78,클라우스
+2022-03-08 14:39:57,967 - movie_logger - INFO - 79,클라우스
+2022-03-08 14:39:58,003 - movie_logger - INFO - 80,클라우스
+2022-03-08 14:39:58,125 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:58,161 - movie_logger - INFO - 81,클라우스
+2022-03-08 14:39:58,192 - movie_logger - INFO - 82,클라우스
+2022-03-08 14:39:58,221 - movie_logger - INFO - 83,클라우스
+2022-03-08 14:39:58,250 - movie_logger - INFO - 84,클라우스
+2022-03-08 14:39:58,281 - movie_logger - INFO - 85,클라우스
+2022-03-08 14:39:58,310 - movie_logger - INFO - 86,클라우스
+2022-03-08 14:39:58,339 - movie_logger - INFO - 87,클라우스
+2022-03-08 14:39:58,371 - movie_logger - INFO - 88,클라우스
+2022-03-08 14:39:58,402 - movie_logger - INFO - 89,클라우스
+2022-03-08 14:39:58,432 - movie_logger - INFO - 90,클라우스
+2022-03-08 14:39:58,559 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:58,594 - movie_logger - INFO - 91,클라우스
+2022-03-08 14:39:58,625 - movie_logger - INFO - 92,클라우스
+2022-03-08 14:39:58,657 - movie_logger - INFO - 93,클라우스
+2022-03-08 14:39:58,690 - movie_logger - INFO - 94,클라우스
+2022-03-08 14:39:58,722 - movie_logger - INFO - 95,클라우스
+2022-03-08 14:39:58,752 - movie_logger - INFO - 96,클라우스
+2022-03-08 14:39:58,782 - movie_logger - INFO - 97,클라우스
+2022-03-08 14:39:58,813 - movie_logger - INFO - 98,클라우스
+2022-03-08 14:39:58,845 - movie_logger - INFO - 99,클라우스
+2022-03-08 14:39:58,875 - movie_logger - INFO - 100,클라우스
+2022-03-08 14:39:59,010 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 14:39:59,046 - movie_logger - INFO - 101,클라우스
+2022-03-08 14:39:59,077 - movie_logger - INFO - 102,클라우스
+2022-03-08 14:39:59,110 - movie_logger - INFO - 103,클라우스
+2022-03-08 14:39:59,141 - movie_logger - INFO - 104,클라우스
+2022-03-08 14:39:59,174 - movie_logger - INFO - 105,클라우스
+2022-03-08 14:39:59,205 - movie_logger - INFO - 106,클라우스
+2022-03-08 14:39:59,237 - movie_logger - INFO - 107,클라우스
+2022-03-08 14:39:59,268 - movie_logger - INFO - 108,클라우스
+2022-03-08 15:01:51,307 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 15:01:51,658 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 15:01:52,644 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 15:01:52,666 - movie_logger - INFO - 영화 제목 수집 : 클라우스
+2022-03-08 15:01:52,686 - movie_logger - INFO - iframe으로 전환
+2022-03-08 15:01:52,751 - movie_logger - INFO - 1,클라우스
+2022-03-08 15:01:52,782 - movie_logger - INFO - 2,클라우스
+2022-03-08 15:01:52,813 - movie_logger - INFO - 3,클라우스
+2022-03-08 15:01:52,842 - movie_logger - INFO - 4,클라우스
+2022-03-08 15:01:52,873 - movie_logger - INFO - 5,클라우스
+2022-03-08 15:01:52,905 - movie_logger - INFO - 6,클라우스
+2022-03-08 15:01:52,937 - movie_logger - INFO - 7,클라우스
+2022-03-08 15:01:52,968 - movie_logger - INFO - 8,클라우스
+2022-03-08 15:01:52,999 - movie_logger - INFO - 9,클라우스
+2022-03-08 15:01:53,044 - movie_logger - INFO - 10,클라우스
+2022-03-08 15:01:53,186 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:01:53,220 - movie_logger - INFO - 11,클라우스
+2022-03-08 15:01:53,250 - movie_logger - INFO - 12,클라우스
+2022-03-08 15:01:53,282 - movie_logger - INFO - 13,클라우스
+2022-03-08 15:01:53,312 - movie_logger - INFO - 14,클라우스
+2022-03-08 15:01:53,344 - movie_logger - INFO - 15,클라우스
+2022-03-08 15:01:53,376 - movie_logger - INFO - 16,클라우스
+2022-03-08 15:01:53,407 - movie_logger - INFO - 17,클라우스
+2022-03-08 15:01:53,438 - movie_logger - INFO - 18,클라우스
+2022-03-08 15:01:53,470 - movie_logger - INFO - 19,클라우스
+2022-03-08 15:01:53,502 - movie_logger - INFO - 20,클라우스
+2022-03-08 15:01:53,651 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:01:53,684 - movie_logger - INFO - 21,클라우스
+2022-03-08 15:01:53,716 - movie_logger - INFO - 22,클라우스
+2022-03-08 15:01:53,747 - movie_logger - INFO - 23,클라우스
+2022-03-08 15:01:53,778 - movie_logger - INFO - 24,클라우스
+2022-03-08 15:01:53,811 - movie_logger - INFO - 25,클라우스
+2022-03-08 15:01:53,842 - movie_logger - INFO - 26,클라우스
+2022-03-08 15:01:53,874 - movie_logger - INFO - 27,클라우스
+2022-03-08 15:01:53,907 - movie_logger - INFO - 28,클라우스
+2022-03-08 15:01:53,938 - movie_logger - INFO - 29,클라우스
+2022-03-08 15:02:21,725 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 15:02:22,061 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 15:02:23,039 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 15:02:23,057 - movie_logger - INFO - 영화 제목 수집 : 클라우스
+2022-03-08 15:02:23,075 - movie_logger - INFO - iframe으로 전환
+2022-03-08 15:02:23,131 - movie_logger - INFO - 1,클라우스
+2022-03-08 15:02:23,159 - movie_logger - INFO - 2,클라우스
+2022-03-08 15:02:23,191 - movie_logger - INFO - 3,클라우스
+2022-03-08 15:02:23,220 - movie_logger - INFO - 4,클라우스
+2022-03-08 15:02:23,251 - movie_logger - INFO - 5,클라우스
+2022-03-08 15:02:23,279 - movie_logger - INFO - 6,클라우스
+2022-03-08 15:02:23,309 - movie_logger - INFO - 7,클라우스
+2022-03-08 15:02:23,340 - movie_logger - INFO - 8,클라우스
+2022-03-08 15:02:23,370 - movie_logger - INFO - 9,클라우스
+2022-03-08 15:02:23,399 - movie_logger - INFO - 10,클라우스
+2022-03-08 15:02:23,543 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:02:23,579 - movie_logger - INFO - 11,클라우스
+2022-03-08 15:02:23,610 - movie_logger - INFO - 12,클라우스
+2022-03-08 15:02:23,640 - movie_logger - INFO - 13,클라우스
+2022-03-08 15:02:23,670 - movie_logger - INFO - 14,클라우스
+2022-03-08 15:02:23,701 - movie_logger - INFO - 15,클라우스
+2022-03-08 15:02:23,732 - movie_logger - INFO - 16,클라우스
+2022-03-08 15:02:23,762 - movie_logger - INFO - 17,클라우스
+2022-03-08 15:02:23,792 - movie_logger - INFO - 18,클라우스
+2022-03-08 15:02:23,825 - movie_logger - INFO - 19,클라우스
+2022-03-08 15:02:23,856 - movie_logger - INFO - 20,클라우스
+2022-03-08 15:02:23,996 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:02:24,033 - movie_logger - INFO - 21,클라우스
+2022-03-08 15:02:24,066 - movie_logger - INFO - 22,클라우스
+2022-03-08 15:02:24,094 - movie_logger - INFO - 23,클라우스
+2022-03-08 15:02:24,124 - movie_logger - INFO - 24,클라우스
+2022-03-08 15:02:24,156 - movie_logger - INFO - 25,클라우스
+2022-03-08 15:02:24,188 - movie_logger - INFO - 26,클라우스
+2022-03-08 15:02:24,218 - movie_logger - INFO - 27,클라우스
+2022-03-08 15:02:24,249 - movie_logger - INFO - 28,클라우스
+2022-03-08 15:02:24,281 - movie_logger - INFO - 29,클라우스
+2022-03-08 15:02:24,309 - movie_logger - INFO - 30,클라우스
+2022-03-08 15:02:24,443 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:54,024 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 15:16:54,427 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 15:16:55,412 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 15:16:55,430 - movie_logger - INFO - 영화 제목 수집 : 클라우스
+2022-03-08 15:16:55,450 - movie_logger - INFO - iframe으로 전환
+2022-03-08 15:16:55,515 - movie_logger - INFO - 1,클라우스
+2022-03-08 15:16:55,546 - movie_logger - INFO - 2,클라우스
+2022-03-08 15:16:55,577 - movie_logger - INFO - 3,클라우스
+2022-03-08 15:16:55,610 - movie_logger - INFO - 4,클라우스
+2022-03-08 15:16:55,639 - movie_logger - INFO - 5,클라우스
+2022-03-08 15:16:55,670 - movie_logger - INFO - 6,클라우스
+2022-03-08 15:16:55,700 - movie_logger - INFO - 7,클라우스
+2022-03-08 15:16:55,730 - movie_logger - INFO - 8,클라우스
+2022-03-08 15:16:55,760 - movie_logger - INFO - 9,클라우스
+2022-03-08 15:16:55,790 - movie_logger - INFO - 10,클라우스
+2022-03-08 15:16:55,934 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:55,970 - movie_logger - INFO - 11,클라우스
+2022-03-08 15:16:55,999 - movie_logger - INFO - 12,클라우스
+2022-03-08 15:16:56,029 - movie_logger - INFO - 13,클라우스
+2022-03-08 15:16:56,059 - movie_logger - INFO - 14,클라우스
+2022-03-08 15:16:56,089 - movie_logger - INFO - 15,클라우스
+2022-03-08 15:16:56,118 - movie_logger - INFO - 16,클라우스
+2022-03-08 15:16:56,150 - movie_logger - INFO - 17,클라우스
+2022-03-08 15:16:56,181 - movie_logger - INFO - 18,클라우스
+2022-03-08 15:16:56,212 - movie_logger - INFO - 19,클라우스
+2022-03-08 15:16:56,242 - movie_logger - INFO - 20,클라우스
+2022-03-08 15:16:56,380 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:56,415 - movie_logger - INFO - 21,클라우스
+2022-03-08 15:16:56,448 - movie_logger - INFO - 22,클라우스
+2022-03-08 15:16:56,479 - movie_logger - INFO - 23,클라우스
+2022-03-08 15:16:56,509 - movie_logger - INFO - 24,클라우스
+2022-03-08 15:16:56,540 - movie_logger - INFO - 25,클라우스
+2022-03-08 15:16:56,577 - movie_logger - INFO - 26,클라우스
+2022-03-08 15:16:56,606 - movie_logger - INFO - 27,클라우스
+2022-03-08 15:16:56,634 - movie_logger - INFO - 28,클라우스
+2022-03-08 15:16:56,666 - movie_logger - INFO - 29,클라우스
+2022-03-08 15:16:56,696 - movie_logger - INFO - 30,클라우스
+2022-03-08 15:16:56,830 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:56,864 - movie_logger - INFO - 31,클라우스
+2022-03-08 15:16:56,892 - movie_logger - INFO - 32,클라우스
+2022-03-08 15:16:56,922 - movie_logger - INFO - 33,클라우스
+2022-03-08 15:16:56,950 - movie_logger - INFO - 34,클라우스
+2022-03-08 15:16:56,982 - movie_logger - INFO - 35,클라우스
+2022-03-08 15:16:57,010 - movie_logger - INFO - 36,클라우스
+2022-03-08 15:16:57,039 - movie_logger - INFO - 37,클라우스
+2022-03-08 15:16:57,068 - movie_logger - INFO - 38,클라우스
+2022-03-08 15:16:57,096 - movie_logger - INFO - 39,클라우스
+2022-03-08 15:16:57,126 - movie_logger - INFO - 40,클라우스
+2022-03-08 15:16:57,264 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:57,302 - movie_logger - INFO - 41,클라우스
+2022-03-08 15:16:57,333 - movie_logger - INFO - 42,클라우스
+2022-03-08 15:16:57,362 - movie_logger - INFO - 43,클라우스
+2022-03-08 15:16:57,391 - movie_logger - INFO - 44,클라우스
+2022-03-08 15:16:57,420 - movie_logger - INFO - 45,클라우스
+2022-03-08 15:16:57,450 - movie_logger - INFO - 46,클라우스
+2022-03-08 15:16:57,480 - movie_logger - INFO - 47,클라우스
+2022-03-08 15:16:57,511 - movie_logger - INFO - 48,클라우스
+2022-03-08 15:16:57,540 - movie_logger - INFO - 49,클라우스
+2022-03-08 15:16:57,569 - movie_logger - INFO - 50,클라우스
+2022-03-08 15:16:57,704 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:57,742 - movie_logger - INFO - 51,클라우스
+2022-03-08 15:16:57,774 - movie_logger - INFO - 52,클라우스
+2022-03-08 15:16:57,805 - movie_logger - INFO - 53,클라우스
+2022-03-08 15:16:57,835 - movie_logger - INFO - 54,클라우스
+2022-03-08 15:16:57,865 - movie_logger - INFO - 55,클라우스
+2022-03-08 15:16:57,894 - movie_logger - INFO - 56,클라우스
+2022-03-08 15:16:57,923 - movie_logger - INFO - 57,클라우스
+2022-03-08 15:16:57,953 - movie_logger - INFO - 58,클라우스
+2022-03-08 15:16:57,983 - movie_logger - INFO - 59,클라우스
+2022-03-08 15:16:58,012 - movie_logger - INFO - 60,클라우스
+2022-03-08 15:16:58,147 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:58,184 - movie_logger - INFO - 61,클라우스
+2022-03-08 15:16:58,214 - movie_logger - INFO - 62,클라우스
+2022-03-08 15:16:58,244 - movie_logger - INFO - 63,클라우스
+2022-03-08 15:16:58,274 - movie_logger - INFO - 64,클라우스
+2022-03-08 15:16:58,316 - movie_logger - INFO - 65,클라우스
+2022-03-08 15:16:58,347 - movie_logger - INFO - 66,클라우스
+2022-03-08 15:16:58,377 - movie_logger - INFO - 67,클라우스
+2022-03-08 15:16:58,408 - movie_logger - INFO - 68,클라우스
+2022-03-08 15:16:58,441 - movie_logger - INFO - 69,클라우스
+2022-03-08 15:16:58,472 - movie_logger - INFO - 70,클라우스
+2022-03-08 15:16:58,607 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:58,644 - movie_logger - INFO - 71,클라우스
+2022-03-08 15:16:58,674 - movie_logger - INFO - 72,클라우스
+2022-03-08 15:16:58,705 - movie_logger - INFO - 73,클라우스
+2022-03-08 15:16:58,735 - movie_logger - INFO - 74,클라우스
+2022-03-08 15:16:58,767 - movie_logger - INFO - 75,클라우스
+2022-03-08 15:16:58,799 - movie_logger - INFO - 76,클라우스
+2022-03-08 15:16:58,830 - movie_logger - INFO - 77,클라우스
+2022-03-08 15:16:58,859 - movie_logger - INFO - 78,클라우스
+2022-03-08 15:16:58,891 - movie_logger - INFO - 79,클라우스
+2022-03-08 15:16:58,922 - movie_logger - INFO - 80,클라우스
+2022-03-08 15:16:59,047 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:59,083 - movie_logger - INFO - 81,클라우스
+2022-03-08 15:16:59,113 - movie_logger - INFO - 82,클라우스
+2022-03-08 15:16:59,143 - movie_logger - INFO - 83,클라우스
+2022-03-08 15:16:59,174 - movie_logger - INFO - 84,클라우스
+2022-03-08 15:16:59,205 - movie_logger - INFO - 85,클라우스
+2022-03-08 15:16:59,235 - movie_logger - INFO - 86,클라우스
+2022-03-08 15:16:59,269 - movie_logger - INFO - 87,클라우스
+2022-03-08 15:16:59,301 - movie_logger - INFO - 88,클라우스
+2022-03-08 15:16:59,332 - movie_logger - INFO - 89,클라우스
+2022-03-08 15:16:59,363 - movie_logger - INFO - 90,클라우스
+2022-03-08 15:16:59,486 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:59,525 - movie_logger - INFO - 91,클라우스
+2022-03-08 15:16:59,557 - movie_logger - INFO - 92,클라우스
+2022-03-08 15:16:59,589 - movie_logger - INFO - 93,클라우스
+2022-03-08 15:16:59,620 - movie_logger - INFO - 94,클라우스
+2022-03-08 15:16:59,652 - movie_logger - INFO - 95,클라우스
+2022-03-08 15:16:59,684 - movie_logger - INFO - 96,클라우스
+2022-03-08 15:16:59,715 - movie_logger - INFO - 97,클라우스
+2022-03-08 15:16:59,746 - movie_logger - INFO - 98,클라우스
+2022-03-08 15:16:59,777 - movie_logger - INFO - 99,클라우스
+2022-03-08 15:16:59,810 - movie_logger - INFO - 100,클라우스
+2022-03-08 15:16:59,945 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:16:59,981 - movie_logger - INFO - 101,클라우스
+2022-03-08 15:17:00,017 - movie_logger - INFO - 102,클라우스
+2022-03-08 15:17:00,051 - movie_logger - INFO - 103,클라우스
+2022-03-08 15:17:00,083 - movie_logger - INFO - 104,클라우스
+2022-03-08 15:17:00,115 - movie_logger - INFO - 105,클라우스
+2022-03-08 15:17:00,146 - movie_logger - INFO - 106,클라우스
+2022-03-08 15:17:00,178 - movie_logger - INFO - 107,클라우스
+2022-03-08 15:17:00,210 - movie_logger - INFO - 108,클라우스
+2022-03-08 15:17:00,242 - movie_logger - INFO - 109,클라우스
+2022-03-08 15:17:00,274 - movie_logger - INFO - 110,클라우스
+2022-03-08 15:17:00,403 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:00,441 - movie_logger - INFO - 111,클라우스
+2022-03-08 15:17:00,474 - movie_logger - INFO - 112,클라우스
+2022-03-08 15:17:00,505 - movie_logger - INFO - 113,클라우스
+2022-03-08 15:17:00,537 - movie_logger - INFO - 114,클라우스
+2022-03-08 15:17:00,571 - movie_logger - INFO - 115,클라우스
+2022-03-08 15:17:00,603 - movie_logger - INFO - 116,클라우스
+2022-03-08 15:17:00,635 - movie_logger - INFO - 117,클라우스
+2022-03-08 15:17:00,670 - movie_logger - INFO - 118,클라우스
+2022-03-08 15:17:00,704 - movie_logger - INFO - 119,클라우스
+2022-03-08 15:17:00,739 - movie_logger - INFO - 120,클라우스
+2022-03-08 15:17:00,881 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:00,919 - movie_logger - INFO - 121,클라우스
+2022-03-08 15:17:00,958 - movie_logger - INFO - 122,클라우스
+2022-03-08 15:17:00,990 - movie_logger - INFO - 123,클라우스
+2022-03-08 15:17:01,023 - movie_logger - INFO - 124,클라우스
+2022-03-08 15:17:01,055 - movie_logger - INFO - 125,클라우스
+2022-03-08 15:17:01,087 - movie_logger - INFO - 126,클라우스
+2022-03-08 15:17:01,120 - movie_logger - INFO - 127,클라우스
+2022-03-08 15:17:01,151 - movie_logger - INFO - 128,클라우스
+2022-03-08 15:17:01,184 - movie_logger - INFO - 129,클라우스
+2022-03-08 15:17:01,216 - movie_logger - INFO - 130,클라우스
+2022-03-08 15:17:01,341 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:01,385 - movie_logger - INFO - 131,클라우스
+2022-03-08 15:17:01,421 - movie_logger - INFO - 132,클라우스
+2022-03-08 15:17:01,456 - movie_logger - INFO - 133,클라우스
+2022-03-08 15:17:01,489 - movie_logger - INFO - 134,클라우스
+2022-03-08 15:17:01,522 - movie_logger - INFO - 135,클라우스
+2022-03-08 15:17:01,555 - movie_logger - INFO - 136,클라우스
+2022-03-08 15:17:01,588 - movie_logger - INFO - 137,클라우스
+2022-03-08 15:17:01,621 - movie_logger - INFO - 138,클라우스
+2022-03-08 15:17:01,653 - movie_logger - INFO - 139,클라우스
+2022-03-08 15:17:01,688 - movie_logger - INFO - 140,클라우스
+2022-03-08 15:17:01,819 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:01,859 - movie_logger - INFO - 141,클라우스
+2022-03-08 15:17:01,892 - movie_logger - INFO - 142,클라우스
+2022-03-08 15:17:01,926 - movie_logger - INFO - 143,클라우스
+2022-03-08 15:17:01,959 - movie_logger - INFO - 144,클라우스
+2022-03-08 15:17:01,992 - movie_logger - INFO - 145,클라우스
+2022-03-08 15:17:02,024 - movie_logger - INFO - 146,클라우스
+2022-03-08 15:17:02,057 - movie_logger - INFO - 147,클라우스
+2022-03-08 15:17:02,090 - movie_logger - INFO - 148,클라우스
+2022-03-08 15:17:02,124 - movie_logger - INFO - 149,클라우스
+2022-03-08 15:17:02,158 - movie_logger - INFO - 150,클라우스
+2022-03-08 15:17:02,289 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:02,329 - movie_logger - INFO - 151,클라우스
+2022-03-08 15:17:02,362 - movie_logger - INFO - 152,클라우스
+2022-03-08 15:17:02,396 - movie_logger - INFO - 153,클라우스
+2022-03-08 15:17:02,429 - movie_logger - INFO - 154,클라우스
+2022-03-08 15:17:02,465 - movie_logger - INFO - 155,클라우스
+2022-03-08 15:17:02,498 - movie_logger - INFO - 156,클라우스
+2022-03-08 15:17:02,530 - movie_logger - INFO - 157,클라우스
+2022-03-08 15:17:02,564 - movie_logger - INFO - 158,클라우스
+2022-03-08 15:17:02,599 - movie_logger - INFO - 159,클라우스
+2022-03-08 15:17:02,633 - movie_logger - INFO - 160,클라우스
+2022-03-08 15:17:02,762 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:02,803 - movie_logger - INFO - 161,클라우스
+2022-03-08 15:17:02,840 - movie_logger - INFO - 162,클라우스
+2022-03-08 15:17:02,874 - movie_logger - INFO - 163,클라우스
+2022-03-08 15:17:02,906 - movie_logger - INFO - 164,클라우스
+2022-03-08 15:17:02,939 - movie_logger - INFO - 165,클라우스
+2022-03-08 15:17:02,975 - movie_logger - INFO - 166,클라우스
+2022-03-08 15:17:03,008 - movie_logger - INFO - 167,클라우스
+2022-03-08 15:17:03,042 - movie_logger - INFO - 168,클라우스
+2022-03-08 15:17:03,081 - movie_logger - INFO - 169,클라우스
+2022-03-08 15:17:03,115 - movie_logger - INFO - 170,클라우스
+2022-03-08 15:17:03,248 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:03,294 - movie_logger - INFO - 171,클라우스
+2022-03-08 15:17:03,330 - movie_logger - INFO - 172,클라우스
+2022-03-08 15:17:03,366 - movie_logger - INFO - 173,클라우스
+2022-03-08 15:17:03,401 - movie_logger - INFO - 174,클라우스
+2022-03-08 15:17:03,434 - movie_logger - INFO - 175,클라우스
+2022-03-08 15:17:03,470 - movie_logger - INFO - 176,클라우스
+2022-03-08 15:17:03,506 - movie_logger - INFO - 177,클라우스
+2022-03-08 15:17:03,540 - movie_logger - INFO - 178,클라우스
+2022-03-08 15:17:03,575 - movie_logger - INFO - 179,클라우스
+2022-03-08 15:17:03,609 - movie_logger - INFO - 180,클라우스
+2022-03-08 15:17:03,737 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:03,783 - movie_logger - INFO - 181,클라우스
+2022-03-08 15:17:03,819 - movie_logger - INFO - 182,클라우스
+2022-03-08 15:17:03,855 - movie_logger - INFO - 183,클라우스
+2022-03-08 15:17:03,890 - movie_logger - INFO - 184,클라우스
+2022-03-08 15:17:03,924 - movie_logger - INFO - 185,클라우스
+2022-03-08 15:17:03,959 - movie_logger - INFO - 186,클라우스
+2022-03-08 15:17:03,994 - movie_logger - INFO - 187,클라우스
+2022-03-08 15:17:04,029 - movie_logger - INFO - 188,클라우스
+2022-03-08 15:17:04,064 - movie_logger - INFO - 189,클라우스
+2022-03-08 15:17:04,097 - movie_logger - INFO - 190,클라우스
+2022-03-08 15:17:04,235 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:04,277 - movie_logger - INFO - 191,클라우스
+2022-03-08 15:17:04,310 - movie_logger - INFO - 192,클라우스
+2022-03-08 15:17:04,344 - movie_logger - INFO - 193,클라우스
+2022-03-08 15:17:04,378 - movie_logger - INFO - 194,클라우스
+2022-03-08 15:17:04,412 - movie_logger - INFO - 195,클라우스
+2022-03-08 15:17:04,446 - movie_logger - INFO - 196,클라우스
+2022-03-08 15:17:04,483 - movie_logger - INFO - 197,클라우스
+2022-03-08 15:17:04,517 - movie_logger - INFO - 198,클라우스
+2022-03-08 15:17:04,551 - movie_logger - INFO - 199,클라우스
+2022-03-08 15:17:04,586 - movie_logger - INFO - 200,클라우스
+2022-03-08 15:17:04,720 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:04,758 - movie_logger - INFO - 201,클라우스
+2022-03-08 15:17:04,796 - movie_logger - INFO - 202,클라우스
+2022-03-08 15:17:04,831 - movie_logger - INFO - 203,클라우스
+2022-03-08 15:17:04,867 - movie_logger - INFO - 204,클라우스
+2022-03-08 15:17:04,902 - movie_logger - INFO - 205,클라우스
+2022-03-08 15:17:04,936 - movie_logger - INFO - 206,클라우스
+2022-03-08 15:17:04,972 - movie_logger - INFO - 207,클라우스
+2022-03-08 15:17:05,008 - movie_logger - INFO - 208,클라우스
+2022-03-08 15:17:05,045 - movie_logger - INFO - 209,클라우스
+2022-03-08 15:17:05,082 - movie_logger - INFO - 210,클라우스
+2022-03-08 15:17:05,214 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:05,255 - movie_logger - INFO - 211,클라우스
+2022-03-08 15:17:05,292 - movie_logger - INFO - 212,클라우스
+2022-03-08 15:17:05,328 - movie_logger - INFO - 213,클라우스
+2022-03-08 15:17:05,365 - movie_logger - INFO - 214,클라우스
+2022-03-08 15:17:05,401 - movie_logger - INFO - 215,클라우스
+2022-03-08 15:17:05,437 - movie_logger - INFO - 216,클라우스
+2022-03-08 15:17:05,473 - movie_logger - INFO - 217,클라우스
+2022-03-08 15:17:05,509 - movie_logger - INFO - 218,클라우스
+2022-03-08 15:17:05,546 - movie_logger - INFO - 219,클라우스
+2022-03-08 15:17:05,581 - movie_logger - INFO - 220,클라우스
+2022-03-08 15:17:05,713 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:05,755 - movie_logger - INFO - 221,클라우스
+2022-03-08 15:17:05,793 - movie_logger - INFO - 222,클라우스
+2022-03-08 15:17:05,831 - movie_logger - INFO - 223,클라우스
+2022-03-08 15:17:05,870 - movie_logger - INFO - 224,클라우스
+2022-03-08 15:17:05,907 - movie_logger - INFO - 225,클라우스
+2022-03-08 15:17:05,943 - movie_logger - INFO - 226,클라우스
+2022-03-08 15:17:05,985 - movie_logger - INFO - 227,클라우스
+2022-03-08 15:17:06,023 - movie_logger - INFO - 228,클라우스
+2022-03-08 15:17:06,061 - movie_logger - INFO - 229,클라우스
+2022-03-08 15:17:06,099 - movie_logger - INFO - 230,클라우스
+2022-03-08 15:17:06,240 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:06,306 - movie_logger - INFO - 231,클라우스
+2022-03-08 15:17:06,341 - movie_logger - INFO - 232,클라우스
+2022-03-08 15:17:06,377 - movie_logger - INFO - 233,클라우스
+2022-03-08 15:17:06,413 - movie_logger - INFO - 234,클라우스
+2022-03-08 15:17:06,451 - movie_logger - INFO - 235,클라우스
+2022-03-08 15:17:06,485 - movie_logger - INFO - 236,클라우스
+2022-03-08 15:17:06,520 - movie_logger - INFO - 237,클라우스
+2022-03-08 15:17:06,557 - movie_logger - INFO - 238,클라우스
+2022-03-08 15:17:06,594 - movie_logger - INFO - 239,클라우스
+2022-03-08 15:17:06,631 - movie_logger - INFO - 240,클라우스
+2022-03-08 15:17:06,763 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:06,804 - movie_logger - INFO - 241,클라우스
+2022-03-08 15:17:06,844 - movie_logger - INFO - 242,클라우스
+2022-03-08 15:17:06,881 - movie_logger - INFO - 243,클라우스
+2022-03-08 15:17:06,919 - movie_logger - INFO - 244,클라우스
+2022-03-08 15:17:06,955 - movie_logger - INFO - 245,클라우스
+2022-03-08 15:17:06,996 - movie_logger - INFO - 246,클라우스
+2022-03-08 15:17:07,033 - movie_logger - INFO - 247,클라우스
+2022-03-08 15:17:07,069 - movie_logger - INFO - 248,클라우스
+2022-03-08 15:17:07,105 - movie_logger - INFO - 249,클라우스
+2022-03-08 15:17:07,141 - movie_logger - INFO - 250,클라우스
+2022-03-08 15:17:07,266 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:07,308 - movie_logger - INFO - 251,클라우스
+2022-03-08 15:17:07,347 - movie_logger - INFO - 252,클라우스
+2022-03-08 15:17:07,385 - movie_logger - INFO - 253,클라우스
+2022-03-08 15:17:07,421 - movie_logger - INFO - 254,클라우스
+2022-03-08 15:17:07,458 - movie_logger - INFO - 255,클라우스
+2022-03-08 15:17:07,496 - movie_logger - INFO - 256,클라우스
+2022-03-08 15:17:07,533 - movie_logger - INFO - 257,클라우스
+2022-03-08 15:17:07,569 - movie_logger - INFO - 258,클라우스
+2022-03-08 15:17:07,609 - movie_logger - INFO - 259,클라우스
+2022-03-08 15:17:07,647 - movie_logger - INFO - 260,클라우스
+2022-03-08 15:17:07,777 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:07,819 - movie_logger - INFO - 261,클라우스
+2022-03-08 15:17:07,858 - movie_logger - INFO - 262,클라우스
+2022-03-08 15:17:07,898 - movie_logger - INFO - 263,클라우스
+2022-03-08 15:17:07,936 - movie_logger - INFO - 264,클라우스
+2022-03-08 15:17:07,974 - movie_logger - INFO - 265,클라우스
+2022-03-08 15:17:08,009 - movie_logger - INFO - 266,클라우스
+2022-03-08 15:17:08,047 - movie_logger - INFO - 267,클라우스
+2022-03-08 15:17:08,083 - movie_logger - INFO - 268,클라우스
+2022-03-08 15:17:08,119 - movie_logger - INFO - 269,클라우스
+2022-03-08 15:17:08,157 - movie_logger - INFO - 270,클라우스
+2022-03-08 15:17:08,282 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:17:08,325 - movie_logger - INFO - 271,클라우스
+2022-03-08 15:17:08,362 - movie_logger - INFO - 272,클라우스
+2022-03-08 15:17:08,400 - movie_logger - INFO - 273,클라우스
+2022-03-08 15:17:08,437 - movie_logger - INFO - 274,클라우스
+2022-03-08 15:17:08,475 - movie_logger - INFO - 275,클라우스
+2022-03-08 15:17:08,513 - movie_logger - INFO - 276,클라우스
+2022-03-08 15:17:08,551 - movie_logger - INFO - 277,클라우스
+2022-03-08 15:17:08,590 - movie_logger - INFO - 278,클라우스
+2022-03-08 15:17:08,636 - movie_logger - INFO - 279,클라우스
+2022-03-08 15:17:08,674 - movie_logger - INFO - 280,클라우스
+2022-03-08 15:17:08,743 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:18:57,411 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 15:19:00,027 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 15:19:00,951 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 15:19:00,968 - movie_logger - INFO - 영화 제목 수집 : 클라우스
+2022-03-08 15:19:00,987 - movie_logger - INFO - iframe으로 전환
+2022-03-08 15:19:01,049 - movie_logger - INFO - 1,클라우스
+2022-03-08 15:19:01,080 - movie_logger - INFO - 2,클라우스
+2022-03-08 15:19:01,110 - movie_logger - INFO - 3,클라우스
+2022-03-08 15:19:01,138 - movie_logger - INFO - 4,클라우스
+2022-03-08 15:19:01,168 - movie_logger - INFO - 5,클라우스
+2022-03-08 15:19:01,196 - movie_logger - INFO - 6,클라우스
+2022-03-08 15:19:01,227 - movie_logger - INFO - 7,클라우스
+2022-03-08 15:19:01,257 - movie_logger - INFO - 8,클라우스
+2022-03-08 15:19:01,287 - movie_logger - INFO - 9,클라우스
+2022-03-08 15:19:01,316 - movie_logger - INFO - 10,클라우스
+2022-03-08 15:19:01,484 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:19:01,520 - movie_logger - INFO - 11,클라우스
+2022-03-08 15:19:01,549 - movie_logger - INFO - 12,클라우스
+2022-03-08 15:19:01,580 - movie_logger - INFO - 13,클라우스
+2022-03-08 15:19:01,610 - movie_logger - INFO - 14,클라우스
+2022-03-08 15:19:01,640 - movie_logger - INFO - 15,클라우스
+2022-03-08 15:19:01,670 - movie_logger - INFO - 16,클라우스
+2022-03-08 15:19:01,700 - movie_logger - INFO - 17,클라우스
+2022-03-08 15:19:01,729 - movie_logger - INFO - 18,클라우스
+2022-03-08 15:19:01,757 - movie_logger - INFO - 19,클라우스
+2022-03-08 15:19:01,788 - movie_logger - INFO - 20,클라우스
+2022-03-08 15:19:01,930 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:19:01,965 - movie_logger - INFO - 21,클라우스
+2022-03-08 15:19:01,999 - movie_logger - INFO - 22,클라우스
+2022-03-08 15:19:02,027 - movie_logger - INFO - 23,클라우스
+2022-03-08 15:19:02,058 - movie_logger - INFO - 24,클라우스
+2022-03-08 15:19:02,089 - movie_logger - INFO - 25,클라우스
+2022-03-08 15:19:02,118 - movie_logger - INFO - 26,클라우스
+2022-03-08 15:19:02,148 - movie_logger - INFO - 27,클라우스
+2022-03-08 15:19:02,178 - movie_logger - INFO - 28,클라우스
+2022-03-08 15:19:02,209 - movie_logger - INFO - 29,클라우스
+2022-03-08 15:19:02,237 - movie_logger - INFO - 30,클라우스
+2022-03-08 15:19:02,369 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:19:02,404 - movie_logger - INFO - 31,클라우스
+2022-03-08 15:19:02,431 - movie_logger - INFO - 32,클라우스
+2022-03-08 15:19:02,462 - movie_logger - INFO - 33,클라우스
+2022-03-08 15:19:02,491 - movie_logger - INFO - 34,클라우스
+2022-03-08 15:19:02,522 - movie_logger - INFO - 35,클라우스
+2022-03-08 15:19:02,552 - movie_logger - INFO - 36,클라우스
+2022-03-08 15:19:02,580 - movie_logger - INFO - 37,클라우스
+2022-03-08 15:19:02,607 - movie_logger - INFO - 38,클라우스
+2022-03-08 15:19:02,636 - movie_logger - INFO - 39,클라우스
+2022-03-08 15:19:02,665 - movie_logger - INFO - 40,클라우스
+2022-03-08 15:19:02,790 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:19:02,827 - movie_logger - INFO - 41,클라우스
+2022-03-08 15:19:02,855 - movie_logger - INFO - 42,클라우스
+2022-03-08 15:19:02,883 - movie_logger - INFO - 43,클라우스
+2022-03-08 15:19:02,913 - movie_logger - INFO - 44,클라우스
+2022-03-08 15:19:02,941 - movie_logger - INFO - 45,클라우스
+2022-03-08 15:19:02,970 - movie_logger - INFO - 46,클라우스
+2022-03-08 15:19:03,002 - movie_logger - INFO - 47,클라우스
+2022-03-08 15:44:56,112 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 15:44:56,437 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 15:44:57,392 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 15:44:57,409 - movie_logger - INFO - 영화 제목 수집 : 클라우스
+2022-03-08 15:44:57,426 - movie_logger - INFO - iframe으로 전환
+2022-03-08 15:44:57,490 - movie_logger - INFO - 1,클라우스
+2022-03-08 15:44:57,520 - movie_logger - INFO - 2,클라우스
+2022-03-08 15:44:57,553 - movie_logger - INFO - 3,클라우스
+2022-03-08 15:44:57,585 - movie_logger - INFO - 4,클라우스
+2022-03-08 15:44:57,617 - movie_logger - INFO - 5,클라우스
+2022-03-08 15:44:57,648 - movie_logger - INFO - 6,클라우스
+2022-03-08 15:44:57,678 - movie_logger - INFO - 7,클라우스
+2022-03-08 15:44:57,708 - movie_logger - INFO - 8,클라우스
+2022-03-08 15:44:57,737 - movie_logger - INFO - 9,클라우스
+2022-03-08 15:44:57,775 - movie_logger - INFO - 10,클라우스
+2022-03-08 15:44:57,917 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:44:57,957 - movie_logger - INFO - 11,클라우스
+2022-03-08 15:44:57,989 - movie_logger - INFO - 12,클라우스
+2022-03-08 15:44:58,020 - movie_logger - INFO - 13,클라우스
+2022-03-08 15:44:58,050 - movie_logger - INFO - 14,클라우스
+2022-03-08 15:44:58,080 - movie_logger - INFO - 15,클라우스
+2022-03-08 15:44:58,110 - movie_logger - INFO - 16,클라우스
+2022-03-08 15:44:58,140 - movie_logger - INFO - 17,클라우스
+2022-03-08 15:44:58,171 - movie_logger - INFO - 18,클라우스
+2022-03-08 15:44:58,202 - movie_logger - INFO - 19,클라우스
+2022-03-08 15:44:58,234 - movie_logger - INFO - 20,클라우스
+2022-03-08 15:44:58,378 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:44:58,419 - movie_logger - INFO - 21,클라우스
+2022-03-08 15:44:58,450 - movie_logger - INFO - 22,클라우스
+2022-03-08 15:44:58,480 - movie_logger - INFO - 23,클라우스
+2022-03-08 15:44:58,510 - movie_logger - INFO - 24,클라우스
+2022-03-08 15:44:58,541 - movie_logger - INFO - 25,클라우스
+2022-03-08 15:44:58,573 - movie_logger - INFO - 26,클라우스
+2022-03-08 15:44:58,605 - movie_logger - INFO - 27,클라우스
+2022-03-08 15:44:58,635 - movie_logger - INFO - 28,클라우스
+2022-03-08 15:44:58,666 - movie_logger - INFO - 29,클라우스
+2022-03-08 15:44:58,698 - movie_logger - INFO - 30,클라우스
+2022-03-08 15:44:58,836 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:44:58,872 - movie_logger - INFO - 31,클라우스
+2022-03-08 15:44:58,903 - movie_logger - INFO - 32,클라우스
+2022-03-08 15:44:58,934 - movie_logger - INFO - 33,클라우스
+2022-03-08 15:44:58,964 - movie_logger - INFO - 34,클라우스
+2022-03-08 15:44:58,994 - movie_logger - INFO - 35,클라우스
+2022-03-08 15:44:59,022 - movie_logger - INFO - 36,클라우스
+2022-03-08 15:44:59,054 - movie_logger - INFO - 37,클라우스
+2022-03-08 15:44:59,082 - movie_logger - INFO - 38,클라우스
+2022-03-08 15:44:59,111 - movie_logger - INFO - 39,클라우스
+2022-03-08 15:44:59,140 - movie_logger - INFO - 40,클라우스
+2022-03-08 15:44:59,267 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:44:59,301 - movie_logger - INFO - 41,클라우스
+2022-03-08 15:44:59,333 - movie_logger - INFO - 42,클라우스
+2022-03-08 15:44:59,363 - movie_logger - INFO - 43,클라우스
+2022-03-08 15:44:59,392 - movie_logger - INFO - 44,클라우스
+2022-03-08 15:44:59,422 - movie_logger - INFO - 45,클라우스
+2022-03-08 15:44:59,452 - movie_logger - INFO - 46,클라우스
+2022-03-08 15:44:59,483 - movie_logger - INFO - 47,클라우스
+2022-03-08 15:44:59,513 - movie_logger - INFO - 48,클라우스
+2022-03-08 15:44:59,542 - movie_logger - INFO - 49,클라우스
+2022-03-08 15:44:59,573 - movie_logger - INFO - 50,클라우스
+2022-03-08 15:44:59,710 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:44:59,745 - movie_logger - INFO - 51,클라우스
+2022-03-08 15:44:59,777 - movie_logger - INFO - 52,클라우스
+2022-03-08 15:44:59,808 - movie_logger - INFO - 53,클라우스
+2022-03-08 15:44:59,837 - movie_logger - INFO - 54,클라우스
+2022-03-08 15:44:59,867 - movie_logger - INFO - 55,클라우스
+2022-03-08 15:44:59,898 - movie_logger - INFO - 56,클라우스
+2022-03-08 15:44:59,927 - movie_logger - INFO - 57,클라우스
+2022-03-08 15:44:59,961 - movie_logger - INFO - 58,클라우스
+2022-03-08 15:45:00,002 - movie_logger - INFO - 59,클라우스
+2022-03-08 15:45:00,032 - movie_logger - INFO - 60,클라우스
+2022-03-08 15:45:00,190 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:00,225 - movie_logger - INFO - 61,클라우스
+2022-03-08 15:45:00,255 - movie_logger - INFO - 62,클라우스
+2022-03-08 15:45:00,286 - movie_logger - INFO - 63,클라우스
+2022-03-08 15:45:00,318 - movie_logger - INFO - 64,클라우스
+2022-03-08 15:45:00,348 - movie_logger - INFO - 65,클라우스
+2022-03-08 15:45:00,377 - movie_logger - INFO - 66,클라우스
+2022-03-08 15:45:00,408 - movie_logger - INFO - 67,클라우스
+2022-03-08 15:45:00,440 - movie_logger - INFO - 68,클라우스
+2022-03-08 15:45:00,470 - movie_logger - INFO - 69,클라우스
+2022-03-08 15:45:00,502 - movie_logger - INFO - 70,클라우스
+2022-03-08 15:45:00,645 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:00,682 - movie_logger - INFO - 71,클라우스
+2022-03-08 15:45:00,714 - movie_logger - INFO - 72,클라우스
+2022-03-08 15:45:00,746 - movie_logger - INFO - 73,클라우스
+2022-03-08 15:45:00,777 - movie_logger - INFO - 74,클라우스
+2022-03-08 15:45:00,808 - movie_logger - INFO - 75,클라우스
+2022-03-08 15:45:00,838 - movie_logger - INFO - 76,클라우스
+2022-03-08 15:45:00,868 - movie_logger - INFO - 77,클라우스
+2022-03-08 15:45:00,906 - movie_logger - INFO - 78,클라우스
+2022-03-08 15:45:00,940 - movie_logger - INFO - 79,클라우스
+2022-03-08 15:45:00,972 - movie_logger - INFO - 80,클라우스
+2022-03-08 15:45:01,112 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:01,151 - movie_logger - INFO - 81,클라우스
+2022-03-08 15:45:01,184 - movie_logger - INFO - 82,클라우스
+2022-03-08 15:45:01,221 - movie_logger - INFO - 83,클라우스
+2022-03-08 15:45:01,254 - movie_logger - INFO - 84,클라우스
+2022-03-08 15:45:01,287 - movie_logger - INFO - 85,클라우스
+2022-03-08 15:45:01,318 - movie_logger - INFO - 86,클라우스
+2022-03-08 15:45:01,350 - movie_logger - INFO - 87,클라우스
+2022-03-08 15:45:01,383 - movie_logger - INFO - 88,클라우스
+2022-03-08 15:45:01,416 - movie_logger - INFO - 89,클라우스
+2022-03-08 15:45:01,447 - movie_logger - INFO - 90,클라우스
+2022-03-08 15:45:01,587 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:01,622 - movie_logger - INFO - 91,클라우스
+2022-03-08 15:45:01,654 - movie_logger - INFO - 92,클라우스
+2022-03-08 15:45:01,686 - movie_logger - INFO - 93,클라우스
+2022-03-08 15:45:01,718 - movie_logger - INFO - 94,클라우스
+2022-03-08 15:45:01,748 - movie_logger - INFO - 95,클라우스
+2022-03-08 15:45:01,782 - movie_logger - INFO - 96,클라우스
+2022-03-08 15:45:01,812 - movie_logger - INFO - 97,클라우스
+2022-03-08 15:45:01,843 - movie_logger - INFO - 98,클라우스
+2022-03-08 15:45:01,875 - movie_logger - INFO - 99,클라우스
+2022-03-08 15:45:01,907 - movie_logger - INFO - 100,클라우스
+2022-03-08 15:45:02,043 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:02,082 - movie_logger - INFO - 101,클라우스
+2022-03-08 15:45:02,115 - movie_logger - INFO - 102,클라우스
+2022-03-08 15:45:02,146 - movie_logger - INFO - 103,클라우스
+2022-03-08 15:45:02,178 - movie_logger - INFO - 104,클라우스
+2022-03-08 15:45:02,210 - movie_logger - INFO - 105,클라우스
+2022-03-08 15:45:02,244 - movie_logger - INFO - 106,클라우스
+2022-03-08 15:45:02,279 - movie_logger - INFO - 107,클라우스
+2022-03-08 15:45:02,311 - movie_logger - INFO - 108,클라우스
+2022-03-08 15:45:02,345 - movie_logger - INFO - 109,클라우스
+2022-03-08 15:45:02,378 - movie_logger - INFO - 110,클라우스
+2022-03-08 15:45:02,516 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:02,555 - movie_logger - INFO - 111,클라우스
+2022-03-08 15:45:02,589 - movie_logger - INFO - 112,클라우스
+2022-03-08 15:45:02,623 - movie_logger - INFO - 113,클라우스
+2022-03-08 15:45:02,655 - movie_logger - INFO - 114,클라우스
+2022-03-08 15:45:02,687 - movie_logger - INFO - 115,클라우스
+2022-03-08 15:45:02,719 - movie_logger - INFO - 116,클라우스
+2022-03-08 15:45:02,752 - movie_logger - INFO - 117,클라우스
+2022-03-08 15:45:02,784 - movie_logger - INFO - 118,클라우스
+2022-03-08 15:45:02,817 - movie_logger - INFO - 119,클라우스
+2022-03-08 15:45:02,850 - movie_logger - INFO - 120,클라우스
+2022-03-08 15:45:02,994 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:03,032 - movie_logger - INFO - 121,클라우스
+2022-03-08 15:45:03,066 - movie_logger - INFO - 122,클라우스
+2022-03-08 15:45:03,098 - movie_logger - INFO - 123,클라우스
+2022-03-08 15:45:03,130 - movie_logger - INFO - 124,클라우스
+2022-03-08 15:45:03,164 - movie_logger - INFO - 125,클라우스
+2022-03-08 15:45:03,197 - movie_logger - INFO - 126,클라우스
+2022-03-08 15:45:03,231 - movie_logger - INFO - 127,클라우스
+2022-03-08 15:45:03,264 - movie_logger - INFO - 128,클라우스
+2022-03-08 15:45:03,298 - movie_logger - INFO - 129,클라우스
+2022-03-08 15:45:03,331 - movie_logger - INFO - 130,클라우스
+2022-03-08 15:45:03,462 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:03,502 - movie_logger - INFO - 131,클라우스
+2022-03-08 15:45:03,536 - movie_logger - INFO - 132,클라우스
+2022-03-08 15:45:03,570 - movie_logger - INFO - 133,클라우스
+2022-03-08 15:45:03,602 - movie_logger - INFO - 134,클라우스
+2022-03-08 15:45:03,634 - movie_logger - INFO - 135,클라우스
+2022-03-08 15:45:03,667 - movie_logger - INFO - 136,클라우스
+2022-03-08 15:45:03,699 - movie_logger - INFO - 137,클라우스
+2022-03-08 15:45:03,733 - movie_logger - INFO - 138,클라우스
+2022-03-08 15:45:03,766 - movie_logger - INFO - 139,클라우스
+2022-03-08 15:45:03,799 - movie_logger - INFO - 140,클라우스
+2022-03-08 15:45:03,932 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:03,969 - movie_logger - INFO - 141,클라우스
+2022-03-08 15:45:04,006 - movie_logger - INFO - 142,클라우스
+2022-03-08 15:45:04,040 - movie_logger - INFO - 143,클라우스
+2022-03-08 15:45:04,073 - movie_logger - INFO - 144,클라우스
+2022-03-08 15:45:04,106 - movie_logger - INFO - 145,클라우스
+2022-03-08 15:45:04,139 - movie_logger - INFO - 146,클라우스
+2022-03-08 15:45:04,171 - movie_logger - INFO - 147,클라우스
+2022-03-08 15:45:04,204 - movie_logger - INFO - 148,클라우스
+2022-03-08 15:45:04,237 - movie_logger - INFO - 149,클라우스
+2022-03-08 15:45:04,271 - movie_logger - INFO - 150,클라우스
+2022-03-08 15:45:04,413 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:04,453 - movie_logger - INFO - 151,클라우스
+2022-03-08 15:45:04,488 - movie_logger - INFO - 152,클라우스
+2022-03-08 15:45:04,524 - movie_logger - INFO - 153,클라우스
+2022-03-08 15:45:04,559 - movie_logger - INFO - 154,클라우스
+2022-03-08 15:45:04,593 - movie_logger - INFO - 155,클라우스
+2022-03-08 15:45:04,627 - movie_logger - INFO - 156,클라우스
+2022-03-08 15:45:04,660 - movie_logger - INFO - 157,클라우스
+2022-03-08 15:45:04,693 - movie_logger - INFO - 158,클라우스
+2022-03-08 15:45:04,727 - movie_logger - INFO - 159,클라우스
+2022-03-08 15:45:04,760 - movie_logger - INFO - 160,클라우스
+2022-03-08 15:45:04,893 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:04,936 - movie_logger - INFO - 161,클라우스
+2022-03-08 15:45:04,971 - movie_logger - INFO - 162,클라우스
+2022-03-08 15:45:05,007 - movie_logger - INFO - 163,클라우스
+2022-03-08 15:45:05,041 - movie_logger - INFO - 164,클라우스
+2022-03-08 15:45:05,075 - movie_logger - INFO - 165,클라우스
+2022-03-08 15:45:05,110 - movie_logger - INFO - 166,클라우스
+2022-03-08 15:45:05,145 - movie_logger - INFO - 167,클라우스
+2022-03-08 15:45:05,179 - movie_logger - INFO - 168,클라우스
+2022-03-08 15:45:05,213 - movie_logger - INFO - 169,클라우스
+2022-03-08 15:45:05,247 - movie_logger - INFO - 170,클라우스
+2022-03-08 15:45:05,384 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:05,422 - movie_logger - INFO - 171,클라우스
+2022-03-08 15:45:05,458 - movie_logger - INFO - 172,클라우스
+2022-03-08 15:45:05,495 - movie_logger - INFO - 173,클라우스
+2022-03-08 15:45:05,528 - movie_logger - INFO - 174,클라우스
+2022-03-08 15:45:05,561 - movie_logger - INFO - 175,클라우스
+2022-03-08 15:45:05,595 - movie_logger - INFO - 176,클라우스
+2022-03-08 15:45:05,629 - movie_logger - INFO - 177,클라우스
+2022-03-08 15:45:05,663 - movie_logger - INFO - 178,클라우스
+2022-03-08 15:45:05,698 - movie_logger - INFO - 179,클라우스
+2022-03-08 15:45:05,734 - movie_logger - INFO - 180,클라우스
+2022-03-08 15:45:05,867 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:05,907 - movie_logger - INFO - 181,클라우스
+2022-03-08 15:45:05,944 - movie_logger - INFO - 182,클라우스
+2022-03-08 15:45:05,980 - movie_logger - INFO - 183,클라우스
+2022-03-08 15:45:06,016 - movie_logger - INFO - 184,클라우스
+2022-03-08 15:45:06,052 - movie_logger - INFO - 185,클라우스
+2022-03-08 15:45:06,087 - movie_logger - INFO - 186,클라우스
+2022-03-08 15:45:06,120 - movie_logger - INFO - 187,클라우스
+2022-03-08 15:45:06,155 - movie_logger - INFO - 188,클라우스
+2022-03-08 15:45:06,190 - movie_logger - INFO - 189,클라우스
+2022-03-08 15:45:06,225 - movie_logger - INFO - 190,클라우스
+2022-03-08 15:45:06,363 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:06,405 - movie_logger - INFO - 191,클라우스
+2022-03-08 15:45:06,440 - movie_logger - INFO - 192,클라우스
+2022-03-08 15:45:06,475 - movie_logger - INFO - 193,클라우스
+2022-03-08 15:45:06,511 - movie_logger - INFO - 194,클라우스
+2022-03-08 15:45:06,545 - movie_logger - INFO - 195,클라우스
+2022-03-08 15:45:06,580 - movie_logger - INFO - 196,클라우스
+2022-03-08 15:45:06,617 - movie_logger - INFO - 197,클라우스
+2022-03-08 15:45:06,652 - movie_logger - INFO - 198,클라우스
+2022-03-08 15:45:06,685 - movie_logger - INFO - 199,클라우스
+2022-03-08 15:45:06,722 - movie_logger - INFO - 200,클라우스
+2022-03-08 15:45:06,861 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:06,899 - movie_logger - INFO - 201,클라우스
+2022-03-08 15:45:06,937 - movie_logger - INFO - 202,클라우스
+2022-03-08 15:45:06,973 - movie_logger - INFO - 203,클라우스
+2022-03-08 15:45:07,007 - movie_logger - INFO - 204,클라우스
+2022-03-08 15:45:07,044 - movie_logger - INFO - 205,클라우스
+2022-03-08 15:45:07,078 - movie_logger - INFO - 206,클라우스
+2022-03-08 15:45:07,115 - movie_logger - INFO - 207,클라우스
+2022-03-08 15:45:07,151 - movie_logger - INFO - 208,클라우스
+2022-03-08 15:45:07,187 - movie_logger - INFO - 209,클라우스
+2022-03-08 15:45:07,234 - movie_logger - INFO - 210,클라우스
+2022-03-08 15:45:07,402 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:07,444 - movie_logger - INFO - 211,클라우스
+2022-03-08 15:45:07,482 - movie_logger - INFO - 212,클라우스
+2022-03-08 15:45:07,520 - movie_logger - INFO - 213,클라우스
+2022-03-08 15:45:07,556 - movie_logger - INFO - 214,클라우스
+2022-03-08 15:45:07,591 - movie_logger - INFO - 215,클라우스
+2022-03-08 15:45:07,628 - movie_logger - INFO - 216,클라우스
+2022-03-08 15:45:07,663 - movie_logger - INFO - 217,클라우스
+2022-03-08 15:45:07,698 - movie_logger - INFO - 218,클라우스
+2022-03-08 15:45:07,734 - movie_logger - INFO - 219,클라우스
+2022-03-08 15:45:07,770 - movie_logger - INFO - 220,클라우스
+2022-03-08 15:45:07,917 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:07,960 - movie_logger - INFO - 221,클라우스
+2022-03-08 15:45:07,997 - movie_logger - INFO - 222,클라우스
+2022-03-08 15:45:08,034 - movie_logger - INFO - 223,클라우스
+2022-03-08 15:45:08,070 - movie_logger - INFO - 224,클라우스
+2022-03-08 15:45:08,106 - movie_logger - INFO - 225,클라우스
+2022-03-08 15:45:08,141 - movie_logger - INFO - 226,클라우스
+2022-03-08 15:45:08,177 - movie_logger - INFO - 227,클라우스
+2022-03-08 15:45:08,212 - movie_logger - INFO - 228,클라우스
+2022-03-08 15:45:08,247 - movie_logger - INFO - 229,클라우스
+2022-03-08 15:45:08,283 - movie_logger - INFO - 230,클라우스
+2022-03-08 15:45:08,415 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:08,458 - movie_logger - INFO - 231,클라우스
+2022-03-08 15:45:08,495 - movie_logger - INFO - 232,클라우스
+2022-03-08 15:45:08,533 - movie_logger - INFO - 233,클라우스
+2022-03-08 15:45:08,569 - movie_logger - INFO - 234,클라우스
+2022-03-08 15:45:08,605 - movie_logger - INFO - 235,클라우스
+2022-03-08 15:45:08,642 - movie_logger - INFO - 236,클라우스
+2022-03-08 15:45:08,678 - movie_logger - INFO - 237,클라우스
+2022-03-08 15:45:08,714 - movie_logger - INFO - 238,클라우스
+2022-03-08 15:45:08,750 - movie_logger - INFO - 239,클라우스
+2022-03-08 15:45:08,787 - movie_logger - INFO - 240,클라우스
+2022-03-08 15:45:08,917 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:08,959 - movie_logger - INFO - 241,클라우스
+2022-03-08 15:45:08,999 - movie_logger - INFO - 242,클라우스
+2022-03-08 15:45:09,034 - movie_logger - INFO - 243,클라우스
+2022-03-08 15:45:09,071 - movie_logger - INFO - 244,클라우스
+2022-03-08 15:45:09,107 - movie_logger - INFO - 245,클라우스
+2022-03-08 15:45:09,143 - movie_logger - INFO - 246,클라우스
+2022-03-08 15:45:09,180 - movie_logger - INFO - 247,클라우스
+2022-03-08 15:45:09,217 - movie_logger - INFO - 248,클라우스
+2022-03-08 15:45:09,256 - movie_logger - INFO - 249,클라우스
+2022-03-08 15:45:09,293 - movie_logger - INFO - 250,클라우스
+2022-03-08 15:45:09,427 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:09,470 - movie_logger - INFO - 251,클라우스
+2022-03-08 15:45:09,509 - movie_logger - INFO - 252,클라우스
+2022-03-08 15:45:09,549 - movie_logger - INFO - 253,클라우스
+2022-03-08 15:45:09,586 - movie_logger - INFO - 254,클라우스
+2022-03-08 15:45:09,623 - movie_logger - INFO - 255,클라우스
+2022-03-08 15:45:09,659 - movie_logger - INFO - 256,클라우스
+2022-03-08 15:45:09,696 - movie_logger - INFO - 257,클라우스
+2022-03-08 15:45:09,734 - movie_logger - INFO - 258,클라우스
+2022-03-08 15:45:09,770 - movie_logger - INFO - 259,클라우스
+2022-03-08 15:45:09,807 - movie_logger - INFO - 260,클라우스
+2022-03-08 15:45:09,943 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:09,987 - movie_logger - INFO - 261,클라우스
+2022-03-08 15:45:10,026 - movie_logger - INFO - 262,클라우스
+2022-03-08 15:45:10,063 - movie_logger - INFO - 263,클라우스
+2022-03-08 15:45:10,100 - movie_logger - INFO - 264,클라우스
+2022-03-08 15:45:10,136 - movie_logger - INFO - 265,클라우스
+2022-03-08 15:45:10,175 - movie_logger - INFO - 266,클라우스
+2022-03-08 15:45:10,212 - movie_logger - INFO - 267,클라우스
+2022-03-08 15:45:10,251 - movie_logger - INFO - 268,클라우스
+2022-03-08 15:45:10,287 - movie_logger - INFO - 269,클라우스
+2022-03-08 15:45:10,324 - movie_logger - INFO - 270,클라우스
+2022-03-08 15:45:10,463 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:10,505 - movie_logger - INFO - 271,클라우스
+2022-03-08 15:45:10,547 - movie_logger - INFO - 272,클라우스
+2022-03-08 15:45:10,585 - movie_logger - INFO - 273,클라우스
+2022-03-08 15:45:10,623 - movie_logger - INFO - 274,클라우스
+2022-03-08 15:45:10,659 - movie_logger - INFO - 275,클라우스
+2022-03-08 15:45:10,697 - movie_logger - INFO - 276,클라우스
+2022-03-08 15:45:10,733 - movie_logger - INFO - 277,클라우스
+2022-03-08 15:45:10,771 - movie_logger - INFO - 278,클라우스
+2022-03-08 15:45:10,810 - movie_logger - INFO - 279,클라우스
+2022-03-08 15:45:10,848 - movie_logger - INFO - 280,클라우스
+2022-03-08 15:45:10,981 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:11,025 - movie_logger - INFO - 281,클라우스
+2022-03-08 15:45:11,063 - movie_logger - INFO - 282,클라우스
+2022-03-08 15:45:11,101 - movie_logger - INFO - 283,클라우스
+2022-03-08 15:45:11,139 - movie_logger - INFO - 284,클라우스
+2022-03-08 15:45:11,177 - movie_logger - INFO - 285,클라우스
+2022-03-08 15:45:11,215 - movie_logger - INFO - 286,클라우스
+2022-03-08 15:45:11,253 - movie_logger - INFO - 287,클라우스
+2022-03-08 15:45:11,291 - movie_logger - INFO - 288,클라우스
+2022-03-08 15:45:11,328 - movie_logger - INFO - 289,클라우스
+2022-03-08 15:45:11,366 - movie_logger - INFO - 290,클라우스
+2022-03-08 15:45:11,499 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:11,544 - movie_logger - INFO - 291,클라우스
+2022-03-08 15:45:11,583 - movie_logger - INFO - 292,클라우스
+2022-03-08 15:45:11,623 - movie_logger - INFO - 293,클라우스
+2022-03-08 15:45:11,663 - movie_logger - INFO - 294,클라우스
+2022-03-08 15:45:11,703 - movie_logger - INFO - 295,클라우스
+2022-03-08 15:45:11,743 - movie_logger - INFO - 296,클라우스
+2022-03-08 15:45:11,784 - movie_logger - INFO - 297,클라우스
+2022-03-08 15:45:11,822 - movie_logger - INFO - 298,클라우스
+2022-03-08 15:45:11,860 - movie_logger - INFO - 299,클라우스
+2022-03-08 15:45:11,900 - movie_logger - INFO - 300,클라우스
+2022-03-08 15:45:12,055 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:12,100 - movie_logger - INFO - 301,클라우스
+2022-03-08 15:45:12,143 - movie_logger - INFO - 302,클라우스
+2022-03-08 15:45:12,183 - movie_logger - INFO - 303,클라우스
+2022-03-08 15:45:12,222 - movie_logger - INFO - 304,클라우스
+2022-03-08 15:45:12,262 - movie_logger - INFO - 305,클라우스
+2022-03-08 15:45:12,301 - movie_logger - INFO - 306,클라우스
+2022-03-08 15:45:12,341 - movie_logger - INFO - 307,클라우스
+2022-03-08 15:45:12,346 - movie_logger - ERROR - 클라우스 수집완료
+2022-03-08 15:45:17,421 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 15:45:17,733 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 15:45:18,544 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 15:45:18,563 - movie_logger - INFO - 영화 제목 수집 : 장민호 드라마 최종회
+2022-03-08 15:45:18,581 - movie_logger - INFO - iframe으로 전환
+2022-03-08 15:45:18,620 - movie_logger - INFO - 1,장민호 드라마 최종회
+2022-03-08 15:45:18,649 - movie_logger - INFO - 2,장민호 드라마 최종회
+2022-03-08 15:45:18,680 - movie_logger - INFO - 3,장민호 드라마 최종회
+2022-03-08 15:45:18,710 - movie_logger - INFO - 4,장민호 드라마 최종회
+2022-03-08 15:45:18,740 - movie_logger - INFO - 5,장민호 드라마 최종회
+2022-03-08 15:45:18,771 - movie_logger - INFO - 6,장민호 드라마 최종회
+2022-03-08 15:45:18,801 - movie_logger - INFO - 7,장민호 드라마 최종회
+2022-03-08 15:45:18,832 - movie_logger - INFO - 8,장민호 드라마 최종회
+2022-03-08 15:45:18,876 - movie_logger - INFO - 9,장민호 드라마 최종회
+2022-03-08 15:45:18,905 - movie_logger - INFO - 10,장민호 드라마 최종회
+2022-03-08 15:45:21,079 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:21,114 - movie_logger - INFO - 11,장민호 드라마 최종회
+2022-03-08 15:45:21,146 - movie_logger - INFO - 12,장민호 드라마 최종회
+2022-03-08 15:45:21,182 - movie_logger - INFO - 13,장민호 드라마 최종회
+2022-03-08 15:45:21,214 - movie_logger - INFO - 14,장민호 드라마 최종회
+2022-03-08 15:45:21,244 - movie_logger - INFO - 15,장민호 드라마 최종회
+2022-03-08 15:45:21,276 - movie_logger - INFO - 16,장민호 드라마 최종회
+2022-03-08 15:45:21,314 - movie_logger - INFO - 17,장민호 드라마 최종회
+2022-03-08 15:45:21,346 - movie_logger - INFO - 18,장민호 드라마 최종회
+2022-03-08 15:45:21,379 - movie_logger - INFO - 19,장민호 드라마 최종회
+2022-03-08 15:45:21,412 - movie_logger - INFO - 20,장민호 드라마 최종회
+2022-03-08 15:45:21,568 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:21,603 - movie_logger - INFO - 21,장민호 드라마 최종회
+2022-03-08 15:45:21,634 - movie_logger - INFO - 22,장민호 드라마 최종회
+2022-03-08 15:45:21,663 - movie_logger - INFO - 23,장민호 드라마 최종회
+2022-03-08 15:45:21,693 - movie_logger - INFO - 24,장민호 드라마 최종회
+2022-03-08 15:45:21,724 - movie_logger - INFO - 25,장민호 드라마 최종회
+2022-03-08 15:45:21,754 - movie_logger - INFO - 26,장민호 드라마 최종회
+2022-03-08 15:45:21,782 - movie_logger - INFO - 27,장민호 드라마 최종회
+2022-03-08 15:45:21,811 - movie_logger - INFO - 28,장민호 드라마 최종회
+2022-03-08 15:45:21,841 - movie_logger - INFO - 29,장민호 드라마 최종회
+2022-03-08 15:45:21,870 - movie_logger - INFO - 30,장민호 드라마 최종회
+2022-03-08 15:45:22,015 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:22,053 - movie_logger - INFO - 31,장민호 드라마 최종회
+2022-03-08 15:45:22,085 - movie_logger - INFO - 32,장민호 드라마 최종회
+2022-03-08 15:45:22,116 - movie_logger - INFO - 33,장민호 드라마 최종회
+2022-03-08 15:45:22,146 - movie_logger - INFO - 34,장민호 드라마 최종회
+2022-03-08 15:45:22,174 - movie_logger - INFO - 35,장민호 드라마 최종회
+2022-03-08 15:45:22,204 - movie_logger - INFO - 36,장민호 드라마 최종회
+2022-03-08 15:45:22,233 - movie_logger - INFO - 37,장민호 드라마 최종회
+2022-03-08 15:45:22,264 - movie_logger - INFO - 38,장민호 드라마 최종회
+2022-03-08 15:45:22,294 - movie_logger - INFO - 39,장민호 드라마 최종회
+2022-03-08 15:45:22,323 - movie_logger - INFO - 40,장민호 드라마 최종회
+2022-03-08 15:45:22,468 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:22,506 - movie_logger - INFO - 41,장민호 드라마 최종회
+2022-03-08 15:45:22,537 - movie_logger - INFO - 42,장민호 드라마 최종회
+2022-03-08 15:45:22,567 - movie_logger - INFO - 43,장민호 드라마 최종회
+2022-03-08 15:45:22,597 - movie_logger - INFO - 44,장민호 드라마 최종회
+2022-03-08 15:45:22,628 - movie_logger - INFO - 45,장민호 드라마 최종회
+2022-03-08 15:45:22,658 - movie_logger - INFO - 46,장민호 드라마 최종회
+2022-03-08 15:45:22,691 - movie_logger - INFO - 47,장민호 드라마 최종회
+2022-03-08 15:45:22,719 - movie_logger - INFO - 48,장민호 드라마 최종회
+2022-03-08 15:45:22,749 - movie_logger - INFO - 49,장민호 드라마 최종회
+2022-03-08 15:45:22,779 - movie_logger - INFO - 50,장민호 드라마 최종회
+2022-03-08 15:45:22,912 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:22,950 - movie_logger - INFO - 51,장민호 드라마 최종회
+2022-03-08 15:45:22,980 - movie_logger - INFO - 52,장민호 드라마 최종회
+2022-03-08 15:45:23,010 - movie_logger - INFO - 53,장민호 드라마 최종회
+2022-03-08 15:45:23,039 - movie_logger - INFO - 54,장민호 드라마 최종회
+2022-03-08 15:45:23,076 - movie_logger - INFO - 55,장민호 드라마 최종회
+2022-03-08 15:45:23,116 - movie_logger - INFO - 56,장민호 드라마 최종회
+2022-03-08 15:45:23,146 - movie_logger - INFO - 57,장민호 드라마 최종회
+2022-03-08 15:45:23,176 - movie_logger - INFO - 58,장민호 드라마 최종회
+2022-03-08 15:45:23,205 - movie_logger - INFO - 59,장민호 드라마 최종회
+2022-03-08 15:45:23,235 - movie_logger - INFO - 60,장민호 드라마 최종회
+2022-03-08 15:45:23,368 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:23,404 - movie_logger - INFO - 61,장민호 드라마 최종회
+2022-03-08 15:45:23,434 - movie_logger - INFO - 62,장민호 드라마 최종회
+2022-03-08 15:45:23,464 - movie_logger - INFO - 63,장민호 드라마 최종회
+2022-03-08 15:45:23,494 - movie_logger - INFO - 64,장민호 드라마 최종회
+2022-03-08 15:45:23,525 - movie_logger - INFO - 65,장민호 드라마 최종회
+2022-03-08 15:45:23,556 - movie_logger - INFO - 66,장민호 드라마 최종회
+2022-03-08 15:45:23,588 - movie_logger - INFO - 67,장민호 드라마 최종회
+2022-03-08 15:45:23,617 - movie_logger - INFO - 68,장민호 드라마 최종회
+2022-03-08 15:45:23,648 - movie_logger - INFO - 69,장민호 드라마 최종회
+2022-03-08 15:45:23,680 - movie_logger - INFO - 70,장민호 드라마 최종회
+2022-03-08 15:45:23,816 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:23,857 - movie_logger - INFO - 71,장민호 드라마 최종회
+2022-03-08 15:45:23,887 - movie_logger - INFO - 72,장민호 드라마 최종회
+2022-03-08 15:45:23,920 - movie_logger - INFO - 73,장민호 드라마 최종회
+2022-03-08 15:45:23,951 - movie_logger - INFO - 74,장민호 드라마 최종회
+2022-03-08 15:45:23,988 - movie_logger - INFO - 75,장민호 드라마 최종회
+2022-03-08 15:45:24,022 - movie_logger - INFO - 76,장민호 드라마 최종회
+2022-03-08 15:45:24,053 - movie_logger - INFO - 77,장민호 드라마 최종회
+2022-03-08 15:45:24,086 - movie_logger - INFO - 78,장민호 드라마 최종회
+2022-03-08 15:45:24,120 - movie_logger - INFO - 79,장민호 드라마 최종회
+2022-03-08 15:45:24,152 - movie_logger - INFO - 80,장민호 드라마 최종회
+2022-03-08 15:45:24,298 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:24,345 - movie_logger - INFO - 81,장민호 드라마 최종회
+2022-03-08 15:45:24,381 - movie_logger - INFO - 82,장민호 드라마 최종회
+2022-03-08 15:45:24,412 - movie_logger - INFO - 83,장민호 드라마 최종회
+2022-03-08 15:45:24,442 - movie_logger - INFO - 84,장민호 드라마 최종회
+2022-03-08 15:45:24,474 - movie_logger - INFO - 85,장민호 드라마 최종회
+2022-03-08 15:45:24,506 - movie_logger - INFO - 86,장민호 드라마 최종회
+2022-03-08 15:45:24,538 - movie_logger - INFO - 87,장민호 드라마 최종회
+2022-03-08 15:45:24,571 - movie_logger - INFO - 88,장민호 드라마 최종회
+2022-03-08 15:45:24,612 - movie_logger - INFO - 89,장민호 드라마 최종회
+2022-03-08 15:45:24,739 - movie_logger - INFO - 90,장민호 드라마 최종회
+2022-03-08 15:45:24,931 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:24,979 - movie_logger - INFO - 91,장민호 드라마 최종회
+2022-03-08 15:45:25,021 - movie_logger - INFO - 92,장민호 드라마 최종회
+2022-03-08 15:45:25,059 - movie_logger - INFO - 93,장민호 드라마 최종회
+2022-03-08 15:45:25,090 - movie_logger - INFO - 94,장민호 드라마 최종회
+2022-03-08 15:45:25,123 - movie_logger - INFO - 95,장민호 드라마 최종회
+2022-03-08 15:45:25,154 - movie_logger - INFO - 96,장민호 드라마 최종회
+2022-03-08 15:45:25,185 - movie_logger - INFO - 97,장민호 드라마 최종회
+2022-03-08 15:45:25,216 - movie_logger - INFO - 98,장민호 드라마 최종회
+2022-03-08 15:45:25,246 - movie_logger - INFO - 99,장민호 드라마 최종회
+2022-03-08 15:45:25,276 - movie_logger - INFO - 100,장민호 드라마 최종회
+2022-03-08 15:45:25,419 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:25,455 - movie_logger - INFO - 101,장민호 드라마 최종회
+2022-03-08 15:45:25,486 - movie_logger - INFO - 102,장민호 드라마 최종회
+2022-03-08 15:45:25,522 - movie_logger - INFO - 103,장민호 드라마 최종회
+2022-03-08 15:45:25,557 - movie_logger - INFO - 104,장민호 드라마 최종회
+2022-03-08 15:45:25,589 - movie_logger - INFO - 105,장민호 드라마 최종회
+2022-03-08 15:45:25,625 - movie_logger - INFO - 106,장민호 드라마 최종회
+2022-03-08 15:45:25,662 - movie_logger - INFO - 107,장민호 드라마 최종회
+2022-03-08 15:45:25,696 - movie_logger - INFO - 108,장민호 드라마 최종회
+2022-03-08 15:45:25,730 - movie_logger - INFO - 109,장민호 드라마 최종회
+2022-03-08 15:45:25,765 - movie_logger - INFO - 110,장민호 드라마 최종회
+2022-03-08 15:45:25,899 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:25,935 - movie_logger - INFO - 111,장민호 드라마 최종회
+2022-03-08 15:45:25,967 - movie_logger - INFO - 112,장민호 드라마 최종회
+2022-03-08 15:45:26,001 - movie_logger - INFO - 113,장민호 드라마 최종회
+2022-03-08 15:45:26,034 - movie_logger - INFO - 114,장민호 드라마 최종회
+2022-03-08 15:45:26,072 - movie_logger - INFO - 115,장민호 드라마 최종회
+2022-03-08 15:45:26,107 - movie_logger - INFO - 116,장민호 드라마 최종회
+2022-03-08 15:45:26,142 - movie_logger - INFO - 117,장민호 드라마 최종회
+2022-03-08 15:45:26,177 - movie_logger - INFO - 118,장민호 드라마 최종회
+2022-03-08 15:45:26,212 - movie_logger - INFO - 119,장민호 드라마 최종회
+2022-03-08 15:45:26,251 - movie_logger - INFO - 120,장민호 드라마 최종회
+2022-03-08 15:45:26,394 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:26,432 - movie_logger - INFO - 121,장민호 드라마 최종회
+2022-03-08 15:45:26,465 - movie_logger - INFO - 122,장민호 드라마 최종회
+2022-03-08 15:45:26,505 - movie_logger - INFO - 123,장민호 드라마 최종회
+2022-03-08 15:45:26,541 - movie_logger - INFO - 124,장민호 드라마 최종회
+2022-03-08 15:45:26,577 - movie_logger - INFO - 125,장민호 드라마 최종회
+2022-03-08 15:45:26,614 - movie_logger - INFO - 126,장민호 드라마 최종회
+2022-03-08 15:45:26,652 - movie_logger - INFO - 127,장민호 드라마 최종회
+2022-03-08 15:45:26,689 - movie_logger - INFO - 128,장민호 드라마 최종회
+2022-03-08 15:45:26,725 - movie_logger - INFO - 129,장민호 드라마 최종회
+2022-03-08 15:45:26,763 - movie_logger - INFO - 130,장민호 드라마 최종회
+2022-03-08 15:45:26,901 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:26,937 - movie_logger - INFO - 131,장민호 드라마 최종회
+2022-03-08 15:45:26,971 - movie_logger - INFO - 132,장민호 드라마 최종회
+2022-03-08 15:45:27,003 - movie_logger - INFO - 133,장민호 드라마 최종회
+2022-03-08 15:45:27,037 - movie_logger - INFO - 134,장민호 드라마 최종회
+2022-03-08 15:45:27,070 - movie_logger - INFO - 135,장민호 드라마 최종회
+2022-03-08 15:45:27,104 - movie_logger - INFO - 136,장민호 드라마 최종회
+2022-03-08 15:45:27,141 - movie_logger - INFO - 137,장민호 드라마 최종회
+2022-03-08 15:45:27,181 - movie_logger - INFO - 138,장민호 드라마 최종회
+2022-03-08 15:45:27,226 - movie_logger - INFO - 139,장민호 드라마 최종회
+2022-03-08 15:45:27,265 - movie_logger - INFO - 140,장민호 드라마 최종회
+2022-03-08 15:45:27,409 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:27,448 - movie_logger - INFO - 141,장민호 드라마 최종회
+2022-03-08 15:45:27,482 - movie_logger - INFO - 142,장민호 드라마 최종회
+2022-03-08 15:45:27,515 - movie_logger - INFO - 143,장민호 드라마 최종회
+2022-03-08 15:45:27,549 - movie_logger - INFO - 144,장민호 드라마 최종회
+2022-03-08 15:45:27,582 - movie_logger - INFO - 145,장민호 드라마 최종회
+2022-03-08 15:45:27,615 - movie_logger - INFO - 146,장민호 드라마 최종회
+2022-03-08 15:45:27,649 - movie_logger - INFO - 147,장민호 드라마 최종회
+2022-03-08 15:45:27,682 - movie_logger - INFO - 148,장민호 드라마 최종회
+2022-03-08 15:45:27,715 - movie_logger - INFO - 149,장민호 드라마 최종회
+2022-03-08 15:45:27,750 - movie_logger - INFO - 150,장민호 드라마 최종회
+2022-03-08 15:45:27,890 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:27,933 - movie_logger - INFO - 151,장민호 드라마 최종회
+2022-03-08 15:45:27,970 - movie_logger - INFO - 152,장민호 드라마 최종회
+2022-03-08 15:45:28,014 - movie_logger - INFO - 153,장민호 드라마 최종회
+2022-03-08 15:45:28,051 - movie_logger - INFO - 154,장민호 드라마 최종회
+2022-03-08 15:45:28,084 - movie_logger - INFO - 155,장민호 드라마 최종회
+2022-03-08 15:45:28,119 - movie_logger - INFO - 156,장민호 드라마 최종회
+2022-03-08 15:45:28,151 - movie_logger - INFO - 157,장민호 드라마 최종회
+2022-03-08 15:45:28,185 - movie_logger - INFO - 158,장민호 드라마 최종회
+2022-03-08 15:45:28,218 - movie_logger - INFO - 159,장민호 드라마 최종회
+2022-03-08 15:45:28,253 - movie_logger - INFO - 160,장민호 드라마 최종회
+2022-03-08 15:45:28,389 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:28,435 - movie_logger - INFO - 161,장민호 드라마 최종회
+2022-03-08 15:45:28,473 - movie_logger - INFO - 162,장민호 드라마 최종회
+2022-03-08 15:45:28,514 - movie_logger - INFO - 163,장민호 드라마 최종회
+2022-03-08 15:45:28,550 - movie_logger - INFO - 164,장민호 드라마 최종회
+2022-03-08 15:45:28,586 - movie_logger - INFO - 165,장민호 드라마 최종회
+2022-03-08 15:45:28,625 - movie_logger - INFO - 166,장민호 드라마 최종회
+2022-03-08 15:45:28,662 - movie_logger - INFO - 167,장민호 드라마 최종회
+2022-03-08 15:45:28,696 - movie_logger - INFO - 168,장민호 드라마 최종회
+2022-03-08 15:45:28,729 - movie_logger - INFO - 169,장민호 드라마 최종회
+2022-03-08 15:45:28,763 - movie_logger - INFO - 170,장민호 드라마 최종회
+2022-03-08 15:45:28,898 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:28,937 - movie_logger - INFO - 171,장민호 드라마 최종회
+2022-03-08 15:45:28,975 - movie_logger - INFO - 172,장민호 드라마 최종회
+2022-03-08 15:45:29,012 - movie_logger - INFO - 173,장민호 드라마 최종회
+2022-03-08 15:45:29,048 - movie_logger - INFO - 174,장민호 드라마 최종회
+2022-03-08 15:45:29,082 - movie_logger - INFO - 175,장민호 드라마 최종회
+2022-03-08 15:45:29,117 - movie_logger - INFO - 176,장민호 드라마 최종회
+2022-03-08 15:45:29,152 - movie_logger - INFO - 177,장민호 드라마 최종회
+2022-03-08 15:45:29,186 - movie_logger - INFO - 178,장민호 드라마 최종회
+2022-03-08 15:45:29,222 - movie_logger - INFO - 179,장민호 드라마 최종회
+2022-03-08 15:45:29,256 - movie_logger - INFO - 180,장민호 드라마 최종회
+2022-03-08 15:45:29,396 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:29,434 - movie_logger - INFO - 181,장민호 드라마 최종회
+2022-03-08 15:45:29,470 - movie_logger - INFO - 182,장민호 드라마 최종회
+2022-03-08 15:45:29,505 - movie_logger - INFO - 183,장민호 드라마 최종회
+2022-03-08 15:45:29,537 - movie_logger - INFO - 184,장민호 드라마 최종회
+2022-03-08 15:45:29,570 - movie_logger - INFO - 185,장민호 드라마 최종회
+2022-03-08 15:45:29,604 - movie_logger - INFO - 186,장민호 드라마 최종회
+2022-03-08 15:45:29,639 - movie_logger - INFO - 187,장민호 드라마 최종회
+2022-03-08 15:45:29,673 - movie_logger - INFO - 188,장민호 드라마 최종회
+2022-03-08 15:45:29,706 - movie_logger - INFO - 189,장민호 드라마 최종회
+2022-03-08 15:45:29,742 - movie_logger - INFO - 190,장민호 드라마 최종회
+2022-03-08 15:45:29,913 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:29,950 - movie_logger - INFO - 191,장민호 드라마 최종회
+2022-03-08 15:45:29,985 - movie_logger - INFO - 192,장민호 드라마 최종회
+2022-03-08 15:45:30,018 - movie_logger - INFO - 193,장민호 드라마 최종회
+2022-03-08 15:45:30,053 - movie_logger - INFO - 194,장민호 드라마 최종회
+2022-03-08 15:45:30,087 - movie_logger - INFO - 195,장민호 드라마 최종회
+2022-03-08 15:45:30,122 - movie_logger - INFO - 196,장민호 드라마 최종회
+2022-03-08 15:45:30,157 - movie_logger - INFO - 197,장민호 드라마 최종회
+2022-03-08 15:45:30,191 - movie_logger - INFO - 198,장민호 드라마 최종회
+2022-03-08 15:45:30,226 - movie_logger - INFO - 199,장민호 드라마 최종회
+2022-03-08 15:45:30,260 - movie_logger - INFO - 200,장민호 드라마 최종회
+2022-03-08 15:45:30,402 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:30,440 - movie_logger - INFO - 201,장민호 드라마 최종회
+2022-03-08 15:45:30,478 - movie_logger - INFO - 202,장민호 드라마 최종회
+2022-03-08 15:45:30,515 - movie_logger - INFO - 203,장민호 드라마 최종회
+2022-03-08 15:45:30,549 - movie_logger - INFO - 204,장민호 드라마 최종회
+2022-03-08 15:45:30,586 - movie_logger - INFO - 205,장민호 드라마 최종회
+2022-03-08 15:45:30,618 - movie_logger - INFO - 206,장민호 드라마 최종회
+2022-03-08 15:45:30,651 - movie_logger - INFO - 207,장민호 드라마 최종회
+2022-03-08 15:45:30,686 - movie_logger - INFO - 208,장민호 드라마 최종회
+2022-03-08 15:45:30,722 - movie_logger - INFO - 209,장민호 드라마 최종회
+2022-03-08 15:45:30,758 - movie_logger - INFO - 210,장민호 드라마 최종회
+2022-03-08 15:45:30,896 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:30,939 - movie_logger - INFO - 211,장민호 드라마 최종회
+2022-03-08 15:45:30,978 - movie_logger - INFO - 212,장민호 드라마 최종회
+2022-03-08 15:45:31,015 - movie_logger - INFO - 213,장민호 드라마 최종회
+2022-03-08 15:45:31,053 - movie_logger - INFO - 214,장민호 드라마 최종회
+2022-03-08 15:45:31,102 - movie_logger - INFO - 215,장민호 드라마 최종회
+2022-03-08 15:45:31,144 - movie_logger - INFO - 216,장민호 드라마 최종회
+2022-03-08 15:45:31,181 - movie_logger - INFO - 217,장민호 드라마 최종회
+2022-03-08 15:45:31,216 - movie_logger - INFO - 218,장민호 드라마 최종회
+2022-03-08 15:45:31,255 - movie_logger - INFO - 219,장민호 드라마 최종회
+2022-03-08 15:45:31,293 - movie_logger - INFO - 220,장민호 드라마 최종회
+2022-03-08 15:45:31,444 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:31,487 - movie_logger - INFO - 221,장민호 드라마 최종회
+2022-03-08 15:45:31,523 - movie_logger - INFO - 222,장민호 드라마 최종회
+2022-03-08 15:45:31,559 - movie_logger - INFO - 223,장민호 드라마 최종회
+2022-03-08 15:45:31,593 - movie_logger - INFO - 224,장민호 드라마 최종회
+2022-03-08 15:45:31,629 - movie_logger - INFO - 225,장민호 드라마 최종회
+2022-03-08 15:45:31,669 - movie_logger - INFO - 226,장민호 드라마 최종회
+2022-03-08 15:45:31,707 - movie_logger - INFO - 227,장민호 드라마 최종회
+2022-03-08 15:45:31,744 - movie_logger - INFO - 228,장민호 드라마 최종회
+2022-03-08 15:45:31,781 - movie_logger - INFO - 229,장민호 드라마 최종회
+2022-03-08 15:45:31,816 - movie_logger - INFO - 230,장민호 드라마 최종회
+2022-03-08 15:45:31,952 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:31,992 - movie_logger - INFO - 231,장민호 드라마 최종회
+2022-03-08 15:45:32,029 - movie_logger - INFO - 232,장민호 드라마 최종회
+2022-03-08 15:45:32,063 - movie_logger - INFO - 233,장민호 드라마 최종회
+2022-03-08 15:45:32,098 - movie_logger - INFO - 234,장민호 드라마 최종회
+2022-03-08 15:45:32,132 - movie_logger - INFO - 235,장민호 드라마 최종회
+2022-03-08 15:45:32,169 - movie_logger - INFO - 236,장민호 드라마 최종회
+2022-03-08 15:45:32,205 - movie_logger - INFO - 237,장민호 드라마 최종회
+2022-03-08 15:45:32,241 - movie_logger - INFO - 238,장민호 드라마 최종회
+2022-03-08 15:45:32,278 - movie_logger - INFO - 239,장민호 드라마 최종회
+2022-03-08 15:45:32,314 - movie_logger - INFO - 240,장민호 드라마 최종회
+2022-03-08 15:45:32,448 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:32,490 - movie_logger - INFO - 241,장민호 드라마 최종회
+2022-03-08 15:45:32,524 - movie_logger - INFO - 242,장민호 드라마 최종회
+2022-03-08 15:45:32,559 - movie_logger - INFO - 243,장민호 드라마 최종회
+2022-03-08 15:45:32,594 - movie_logger - INFO - 244,장민호 드라마 최종회
+2022-03-08 15:45:32,629 - movie_logger - INFO - 245,장민호 드라마 최종회
+2022-03-08 15:45:32,664 - movie_logger - INFO - 246,장민호 드라마 최종회
+2022-03-08 15:45:32,699 - movie_logger - INFO - 247,장민호 드라마 최종회
+2022-03-08 15:45:32,733 - movie_logger - INFO - 248,장민호 드라마 최종회
+2022-03-08 15:45:32,769 - movie_logger - INFO - 249,장민호 드라마 최종회
+2022-03-08 15:45:32,805 - movie_logger - INFO - 250,장민호 드라마 최종회
+2022-03-08 15:45:32,949 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:32,991 - movie_logger - INFO - 251,장민호 드라마 최종회
+2022-03-08 15:45:33,026 - movie_logger - INFO - 252,장민호 드라마 최종회
+2022-03-08 15:45:33,063 - movie_logger - INFO - 253,장민호 드라마 최종회
+2022-03-08 15:45:33,100 - movie_logger - INFO - 254,장민호 드라마 최종회
+2022-03-08 15:45:33,137 - movie_logger - INFO - 255,장민호 드라마 최종회
+2022-03-08 15:45:33,175 - movie_logger - INFO - 256,장민호 드라마 최종회
+2022-03-08 15:45:33,211 - movie_logger - INFO - 257,장민호 드라마 최종회
+2022-03-08 15:45:33,248 - movie_logger - INFO - 258,장민호 드라마 최종회
+2022-03-08 15:45:33,286 - movie_logger - INFO - 259,장민호 드라마 최종회
+2022-03-08 15:45:33,321 - movie_logger - INFO - 260,장민호 드라마 최종회
+2022-03-08 15:45:33,465 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:33,511 - movie_logger - INFO - 261,장민호 드라마 최종회
+2022-03-08 15:45:33,549 - movie_logger - INFO - 262,장민호 드라마 최종회
+2022-03-08 15:45:33,588 - movie_logger - INFO - 263,장민호 드라마 최종회
+2022-03-08 15:45:33,626 - movie_logger - INFO - 264,장민호 드라마 최종회
+2022-03-08 15:45:33,664 - movie_logger - INFO - 265,장민호 드라마 최종회
+2022-03-08 15:45:33,700 - movie_logger - INFO - 266,장민호 드라마 최종회
+2022-03-08 15:45:33,738 - movie_logger - INFO - 267,장민호 드라마 최종회
+2022-03-08 15:45:33,776 - movie_logger - INFO - 268,장민호 드라마 최종회
+2022-03-08 15:45:33,813 - movie_logger - INFO - 269,장민호 드라마 최종회
+2022-03-08 15:45:33,848 - movie_logger - INFO - 270,장민호 드라마 최종회
+2022-03-08 15:45:33,981 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:34,022 - movie_logger - INFO - 271,장민호 드라마 최종회
+2022-03-08 15:45:34,059 - movie_logger - INFO - 272,장민호 드라마 최종회
+2022-03-08 15:45:34,098 - movie_logger - INFO - 273,장민호 드라마 최종회
+2022-03-08 15:45:34,137 - movie_logger - INFO - 274,장민호 드라마 최종회
+2022-03-08 15:45:34,175 - movie_logger - INFO - 275,장민호 드라마 최종회
+2022-03-08 15:45:34,212 - movie_logger - INFO - 276,장민호 드라마 최종회
+2022-03-08 15:45:34,248 - movie_logger - INFO - 277,장민호 드라마 최종회
+2022-03-08 15:45:34,284 - movie_logger - INFO - 278,장민호 드라마 최종회
+2022-03-08 15:45:34,321 - movie_logger - INFO - 279,장민호 드라마 최종회
+2022-03-08 15:45:34,357 - movie_logger - INFO - 280,장민호 드라마 최종회
+2022-03-08 15:45:34,497 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:34,538 - movie_logger - INFO - 281,장민호 드라마 최종회
+2022-03-08 15:45:34,577 - movie_logger - INFO - 282,장민호 드라마 최종회
+2022-03-08 15:45:34,614 - movie_logger - INFO - 283,장민호 드라마 최종회
+2022-03-08 15:45:34,653 - movie_logger - INFO - 284,장민호 드라마 최종회
+2022-03-08 15:45:34,690 - movie_logger - INFO - 285,장민호 드라마 최종회
+2022-03-08 15:45:34,729 - movie_logger - INFO - 286,장민호 드라마 최종회
+2022-03-08 15:45:34,766 - movie_logger - INFO - 287,장민호 드라마 최종회
+2022-03-08 15:45:34,805 - movie_logger - INFO - 288,장민호 드라마 최종회
+2022-03-08 15:45:34,843 - movie_logger - INFO - 289,장민호 드라마 최종회
+2022-03-08 15:45:34,881 - movie_logger - INFO - 290,장민호 드라마 최종회
+2022-03-08 15:45:35,026 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:35,068 - movie_logger - INFO - 291,장민호 드라마 최종회
+2022-03-08 15:45:35,106 - movie_logger - INFO - 292,장민호 드라마 최종회
+2022-03-08 15:45:35,145 - movie_logger - INFO - 293,장민호 드라마 최종회
+2022-03-08 15:45:35,184 - movie_logger - INFO - 294,장민호 드라마 최종회
+2022-03-08 15:45:35,222 - movie_logger - INFO - 295,장민호 드라마 최종회
+2022-03-08 15:45:35,260 - movie_logger - INFO - 296,장민호 드라마 최종회
+2022-03-08 15:45:35,301 - movie_logger - INFO - 297,장민호 드라마 최종회
+2022-03-08 15:45:35,339 - movie_logger - INFO - 298,장민호 드라마 최종회
+2022-03-08 15:45:35,380 - movie_logger - INFO - 299,장민호 드라마 최종회
+2022-03-08 15:45:35,418 - movie_logger - INFO - 300,장민호 드라마 최종회
+2022-03-08 15:45:35,562 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:35,604 - movie_logger - INFO - 301,장민호 드라마 최종회
+2022-03-08 15:45:35,652 - movie_logger - INFO - 302,장민호 드라마 최종회
+2022-03-08 15:45:35,698 - movie_logger - INFO - 303,장민호 드라마 최종회
+2022-03-08 15:45:35,757 - movie_logger - INFO - 304,장민호 드라마 최종회
+2022-03-08 15:45:35,794 - movie_logger - INFO - 305,장민호 드라마 최종회
+2022-03-08 15:45:35,831 - movie_logger - INFO - 306,장민호 드라마 최종회
+2022-03-08 15:45:35,865 - movie_logger - INFO - 307,장민호 드라마 최종회
+2022-03-08 15:45:35,901 - movie_logger - INFO - 308,장민호 드라마 최종회
+2022-03-08 15:45:35,937 - movie_logger - INFO - 309,장민호 드라마 최종회
+2022-03-08 15:45:35,975 - movie_logger - INFO - 310,장민호 드라마 최종회
+2022-03-08 15:45:36,112 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:36,155 - movie_logger - INFO - 311,장민호 드라마 최종회
+2022-03-08 15:45:36,193 - movie_logger - INFO - 312,장민호 드라마 최종회
+2022-03-08 15:45:36,232 - movie_logger - INFO - 313,장민호 드라마 최종회
+2022-03-08 15:45:36,272 - movie_logger - INFO - 314,장민호 드라마 최종회
+2022-03-08 15:45:36,310 - movie_logger - INFO - 315,장민호 드라마 최종회
+2022-03-08 15:45:36,347 - movie_logger - INFO - 316,장민호 드라마 최종회
+2022-03-08 15:45:36,385 - movie_logger - INFO - 317,장민호 드라마 최종회
+2022-03-08 15:45:36,424 - movie_logger - INFO - 318,장민호 드라마 최종회
+2022-03-08 15:45:36,463 - movie_logger - INFO - 319,장민호 드라마 최종회
+2022-03-08 15:45:36,502 - movie_logger - INFO - 320,장민호 드라마 최종회
+2022-03-08 15:45:36,633 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:36,676 - movie_logger - INFO - 321,장민호 드라마 최종회
+2022-03-08 15:45:36,716 - movie_logger - INFO - 322,장민호 드라마 최종회
+2022-03-08 15:45:36,756 - movie_logger - INFO - 323,장민호 드라마 최종회
+2022-03-08 15:45:36,796 - movie_logger - INFO - 324,장민호 드라마 최종회
+2022-03-08 15:45:36,836 - movie_logger - INFO - 325,장민호 드라마 최종회
+2022-03-08 15:45:36,877 - movie_logger - INFO - 326,장민호 드라마 최종회
+2022-03-08 15:45:36,915 - movie_logger - INFO - 327,장민호 드라마 최종회
+2022-03-08 15:45:36,954 - movie_logger - INFO - 328,장민호 드라마 최종회
+2022-03-08 15:45:36,992 - movie_logger - INFO - 329,장민호 드라마 최종회
+2022-03-08 15:45:37,032 - movie_logger - INFO - 330,장민호 드라마 최종회
+2022-03-08 15:45:37,164 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:37,209 - movie_logger - INFO - 331,장민호 드라마 최종회
+2022-03-08 15:45:37,247 - movie_logger - INFO - 332,장민호 드라마 최종회
+2022-03-08 15:45:37,286 - movie_logger - INFO - 333,장민호 드라마 최종회
+2022-03-08 15:45:37,324 - movie_logger - INFO - 334,장민호 드라마 최종회
+2022-03-08 15:45:37,360 - movie_logger - INFO - 335,장민호 드라마 최종회
+2022-03-08 15:45:37,401 - movie_logger - INFO - 336,장민호 드라마 최종회
+2022-03-08 15:45:37,440 - movie_logger - INFO - 337,장민호 드라마 최종회
+2022-03-08 15:45:37,480 - movie_logger - INFO - 338,장민호 드라마 최종회
+2022-03-08 15:45:37,520 - movie_logger - INFO - 339,장민호 드라마 최종회
+2022-03-08 15:45:37,560 - movie_logger - INFO - 340,장민호 드라마 최종회
+2022-03-08 15:45:37,689 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:37,734 - movie_logger - INFO - 341,장민호 드라마 최종회
+2022-03-08 15:45:37,773 - movie_logger - INFO - 342,장민호 드라마 최종회
+2022-03-08 15:45:37,812 - movie_logger - INFO - 343,장민호 드라마 최종회
+2022-03-08 15:45:37,850 - movie_logger - INFO - 344,장민호 드라마 최종회
+2022-03-08 15:45:37,891 - movie_logger - INFO - 345,장민호 드라마 최종회
+2022-03-08 15:45:37,931 - movie_logger - INFO - 346,장민호 드라마 최종회
+2022-03-08 15:45:37,972 - movie_logger - INFO - 347,장민호 드라마 최종회
+2022-03-08 15:45:38,012 - movie_logger - INFO - 348,장민호 드라마 최종회
+2022-03-08 15:45:38,052 - movie_logger - INFO - 349,장민호 드라마 최종회
+2022-03-08 15:45:38,092 - movie_logger - INFO - 350,장민호 드라마 최종회
+2022-03-08 15:45:38,226 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:38,277 - movie_logger - INFO - 351,장민호 드라마 최종회
+2022-03-08 15:45:38,317 - movie_logger - INFO - 352,장민호 드라마 최종회
+2022-03-08 15:45:38,357 - movie_logger - INFO - 353,장민호 드라마 최종회
+2022-03-08 15:45:38,398 - movie_logger - INFO - 354,장민호 드라마 최종회
+2022-03-08 15:45:38,440 - movie_logger - INFO - 355,장민호 드라마 최종회
+2022-03-08 15:45:38,480 - movie_logger - INFO - 356,장민호 드라마 최종회
+2022-03-08 15:45:38,520 - movie_logger - INFO - 357,장민호 드라마 최종회
+2022-03-08 15:45:38,558 - movie_logger - INFO - 358,장민호 드라마 최종회
+2022-03-08 15:45:38,599 - movie_logger - INFO - 359,장민호 드라마 최종회
+2022-03-08 15:45:38,638 - movie_logger - INFO - 360,장민호 드라마 최종회
+2022-03-08 15:45:38,801 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:38,846 - movie_logger - INFO - 361,장민호 드라마 최종회
+2022-03-08 15:45:38,886 - movie_logger - INFO - 362,장민호 드라마 최종회
+2022-03-08 15:45:38,927 - movie_logger - INFO - 363,장민호 드라마 최종회
+2022-03-08 15:45:38,968 - movie_logger - INFO - 364,장민호 드라마 최종회
+2022-03-08 15:45:39,010 - movie_logger - INFO - 365,장민호 드라마 최종회
+2022-03-08 15:45:39,049 - movie_logger - INFO - 366,장민호 드라마 최종회
+2022-03-08 15:45:39,089 - movie_logger - INFO - 367,장민호 드라마 최종회
+2022-03-08 15:45:39,127 - movie_logger - INFO - 368,장민호 드라마 최종회
+2022-03-08 15:45:39,166 - movie_logger - INFO - 369,장민호 드라마 최종회
+2022-03-08 15:45:39,205 - movie_logger - INFO - 370,장민호 드라마 최종회
+2022-03-08 15:45:39,346 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:39,390 - movie_logger - INFO - 371,장민호 드라마 최종회
+2022-03-08 15:45:39,436 - movie_logger - INFO - 372,장민호 드라마 최종회
+2022-03-08 15:45:39,475 - movie_logger - INFO - 373,장민호 드라마 최종회
+2022-03-08 15:45:39,515 - movie_logger - INFO - 374,장민호 드라마 최종회
+2022-03-08 15:45:39,556 - movie_logger - INFO - 375,장민호 드라마 최종회
+2022-03-08 15:45:39,598 - movie_logger - INFO - 376,장민호 드라마 최종회
+2022-03-08 15:45:39,639 - movie_logger - INFO - 377,장민호 드라마 최종회
+2022-03-08 15:45:39,680 - movie_logger - INFO - 378,장민호 드라마 최종회
+2022-03-08 15:45:39,720 - movie_logger - INFO - 379,장민호 드라마 최종회
+2022-03-08 15:45:39,761 - movie_logger - INFO - 380,장민호 드라마 최종회
+2022-03-08 15:45:39,921 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:39,965 - movie_logger - INFO - 381,장민호 드라마 최종회
+2022-03-08 15:45:40,005 - movie_logger - INFO - 382,장민호 드라마 최종회
+2022-03-08 15:45:40,047 - movie_logger - INFO - 383,장민호 드라마 최종회
+2022-03-08 15:45:40,087 - movie_logger - INFO - 384,장민호 드라마 최종회
+2022-03-08 15:45:40,126 - movie_logger - INFO - 385,장민호 드라마 최종회
+2022-03-08 15:45:40,165 - movie_logger - INFO - 386,장민호 드라마 최종회
+2022-03-08 15:45:40,202 - movie_logger - INFO - 387,장민호 드라마 최종회
+2022-03-08 15:45:40,241 - movie_logger - INFO - 388,장민호 드라마 최종회
+2022-03-08 15:45:40,281 - movie_logger - INFO - 389,장민호 드라마 최종회
+2022-03-08 15:45:40,320 - movie_logger - INFO - 390,장민호 드라마 최종회
+2022-03-08 15:45:40,459 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:40,505 - movie_logger - INFO - 391,장민호 드라마 최종회
+2022-03-08 15:45:40,547 - movie_logger - INFO - 392,장민호 드라마 최종회
+2022-03-08 15:45:40,588 - movie_logger - INFO - 393,장민호 드라마 최종회
+2022-03-08 15:45:40,628 - movie_logger - INFO - 394,장민호 드라마 최종회
+2022-03-08 15:45:40,670 - movie_logger - INFO - 395,장민호 드라마 최종회
+2022-03-08 15:45:40,708 - movie_logger - INFO - 396,장민호 드라마 최종회
+2022-03-08 15:45:40,747 - movie_logger - INFO - 397,장민호 드라마 최종회
+2022-03-08 15:45:40,786 - movie_logger - INFO - 398,장민호 드라마 최종회
+2022-03-08 15:45:40,826 - movie_logger - INFO - 399,장민호 드라마 최종회
+2022-03-08 15:45:40,867 - movie_logger - INFO - 400,장민호 드라마 최종회
+2022-03-08 15:45:41,010 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:41,057 - movie_logger - INFO - 401,장민호 드라마 최종회
+2022-03-08 15:45:41,097 - movie_logger - INFO - 402,장민호 드라마 최종회
+2022-03-08 15:45:41,139 - movie_logger - INFO - 403,장민호 드라마 최종회
+2022-03-08 15:45:41,178 - movie_logger - INFO - 404,장민호 드라마 최종회
+2022-03-08 15:45:41,221 - movie_logger - INFO - 405,장민호 드라마 최종회
+2022-03-08 15:45:41,262 - movie_logger - INFO - 406,장민호 드라마 최종회
+2022-03-08 15:45:41,302 - movie_logger - INFO - 407,장민호 드라마 최종회
+2022-03-08 15:45:41,345 - movie_logger - INFO - 408,장민호 드라마 최종회
+2022-03-08 15:45:41,385 - movie_logger - INFO - 409,장민호 드라마 최종회
+2022-03-08 15:45:41,425 - movie_logger - INFO - 410,장민호 드라마 최종회
+2022-03-08 15:45:41,565 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:41,612 - movie_logger - INFO - 411,장민호 드라마 최종회
+2022-03-08 15:45:41,656 - movie_logger - INFO - 412,장민호 드라마 최종회
+2022-03-08 15:45:41,697 - movie_logger - INFO - 413,장민호 드라마 최종회
+2022-03-08 15:45:41,738 - movie_logger - INFO - 414,장민호 드라마 최종회
+2022-03-08 15:45:41,779 - movie_logger - INFO - 415,장민호 드라마 최종회
+2022-03-08 15:45:41,819 - movie_logger - INFO - 416,장민호 드라마 최종회
+2022-03-08 15:45:41,860 - movie_logger - INFO - 417,장민호 드라마 최종회
+2022-03-08 15:45:41,899 - movie_logger - INFO - 418,장민호 드라마 최종회
+2022-03-08 15:45:41,939 - movie_logger - INFO - 419,장민호 드라마 최종회
+2022-03-08 15:45:41,978 - movie_logger - INFO - 420,장민호 드라마 최종회
+2022-03-08 15:45:42,116 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:42,162 - movie_logger - INFO - 421,장민호 드라마 최종회
+2022-03-08 15:45:42,204 - movie_logger - INFO - 422,장민호 드라마 최종회
+2022-03-08 15:45:42,247 - movie_logger - INFO - 423,장민호 드라마 최종회
+2022-03-08 15:45:42,289 - movie_logger - INFO - 424,장민호 드라마 최종회
+2022-03-08 15:45:42,333 - movie_logger - INFO - 425,장민호 드라마 최종회
+2022-03-08 15:45:42,374 - movie_logger - INFO - 426,장민호 드라마 최종회
+2022-03-08 15:45:42,415 - movie_logger - INFO - 427,장민호 드라마 최종회
+2022-03-08 15:45:42,457 - movie_logger - INFO - 428,장민호 드라마 최종회
+2022-03-08 15:45:42,500 - movie_logger - INFO - 429,장민호 드라마 최종회
+2022-03-08 15:45:42,544 - movie_logger - INFO - 430,장민호 드라마 최종회
+2022-03-08 15:45:42,683 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:42,731 - movie_logger - INFO - 431,장민호 드라마 최종회
+2022-03-08 15:45:42,774 - movie_logger - INFO - 432,장민호 드라마 최종회
+2022-03-08 15:45:42,815 - movie_logger - INFO - 433,장민호 드라마 최종회
+2022-03-08 15:45:42,855 - movie_logger - INFO - 434,장민호 드라마 최종회
+2022-03-08 15:45:42,896 - movie_logger - INFO - 435,장민호 드라마 최종회
+2022-03-08 15:45:42,935 - movie_logger - INFO - 436,장민호 드라마 최종회
+2022-03-08 15:45:42,976 - movie_logger - INFO - 437,장민호 드라마 최종회
+2022-03-08 15:45:43,017 - movie_logger - INFO - 438,장민호 드라마 최종회
+2022-03-08 15:45:43,057 - movie_logger - INFO - 439,장민호 드라마 최종회
+2022-03-08 15:45:43,098 - movie_logger - INFO - 440,장민호 드라마 최종회
+2022-03-08 15:45:43,244 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:43,290 - movie_logger - INFO - 441,장민호 드라마 최종회
+2022-03-08 15:45:43,333 - movie_logger - INFO - 442,장민호 드라마 최종회
+2022-03-08 15:45:43,376 - movie_logger - INFO - 443,장민호 드라마 최종회
+2022-03-08 15:45:43,418 - movie_logger - INFO - 444,장민호 드라마 최종회
+2022-03-08 15:45:43,460 - movie_logger - INFO - 445,장민호 드라마 최종회
+2022-03-08 15:45:43,502 - movie_logger - INFO - 446,장민호 드라마 최종회
+2022-03-08 15:45:43,544 - movie_logger - INFO - 447,장민호 드라마 최종회
+2022-03-08 15:45:43,588 - movie_logger - INFO - 448,장민호 드라마 최종회
+2022-03-08 15:45:43,629 - movie_logger - INFO - 449,장민호 드라마 최종회
+2022-03-08 15:45:43,669 - movie_logger - INFO - 450,장민호 드라마 최종회
+2022-03-08 15:45:43,811 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:43,856 - movie_logger - INFO - 451,장민호 드라마 최종회
+2022-03-08 15:45:43,901 - movie_logger - INFO - 452,장민호 드라마 최종회
+2022-03-08 15:45:43,942 - movie_logger - INFO - 453,장민호 드라마 최종회
+2022-03-08 15:45:43,985 - movie_logger - INFO - 454,장민호 드라마 최종회
+2022-03-08 15:45:44,030 - movie_logger - INFO - 455,장민호 드라마 최종회
+2022-03-08 15:45:44,074 - movie_logger - INFO - 456,장민호 드라마 최종회
+2022-03-08 15:45:44,117 - movie_logger - INFO - 457,장민호 드라마 최종회
+2022-03-08 15:45:44,160 - movie_logger - INFO - 458,장민호 드라마 최종회
+2022-03-08 15:45:44,205 - movie_logger - INFO - 459,장민호 드라마 최종회
+2022-03-08 15:45:44,252 - movie_logger - INFO - 460,장민호 드라마 최종회
+2022-03-08 15:45:44,384 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:44,434 - movie_logger - INFO - 461,장민호 드라마 최종회
+2022-03-08 15:45:44,481 - movie_logger - INFO - 462,장민호 드라마 최종회
+2022-03-08 15:45:44,525 - movie_logger - INFO - 463,장민호 드라마 최종회
+2022-03-08 15:45:44,567 - movie_logger - INFO - 464,장민호 드라마 최종회
+2022-03-08 15:45:44,613 - movie_logger - INFO - 465,장민호 드라마 최종회
+2022-03-08 15:45:44,658 - movie_logger - INFO - 466,장민호 드라마 최종회
+2022-03-08 15:45:44,701 - movie_logger - INFO - 467,장민호 드라마 최종회
+2022-03-08 15:45:44,743 - movie_logger - INFO - 468,장민호 드라마 최종회
+2022-03-08 15:45:44,788 - movie_logger - INFO - 469,장민호 드라마 최종회
+2022-03-08 15:45:44,831 - movie_logger - INFO - 470,장민호 드라마 최종회
+2022-03-08 15:45:44,963 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:45,012 - movie_logger - INFO - 471,장민호 드라마 최종회
+2022-03-08 15:45:45,058 - movie_logger - INFO - 472,장민호 드라마 최종회
+2022-03-08 15:45:45,100 - movie_logger - INFO - 473,장민호 드라마 최종회
+2022-03-08 15:45:45,142 - movie_logger - INFO - 474,장민호 드라마 최종회
+2022-03-08 15:45:45,186 - movie_logger - INFO - 475,장민호 드라마 최종회
+2022-03-08 15:45:45,231 - movie_logger - INFO - 476,장민호 드라마 최종회
+2022-03-08 15:45:45,276 - movie_logger - INFO - 477,장민호 드라마 최종회
+2022-03-08 15:45:45,320 - movie_logger - INFO - 478,장민호 드라마 최종회
+2022-03-08 15:45:45,363 - movie_logger - INFO - 479,장민호 드라마 최종회
+2022-03-08 15:45:45,406 - movie_logger - INFO - 480,장민호 드라마 최종회
+2022-03-08 15:45:45,545 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:45,593 - movie_logger - INFO - 481,장민호 드라마 최종회
+2022-03-08 15:45:45,640 - movie_logger - INFO - 482,장민호 드라마 최종회
+2022-03-08 15:45:45,685 - movie_logger - INFO - 483,장민호 드라마 최종회
+2022-03-08 15:45:45,728 - movie_logger - INFO - 484,장민호 드라마 최종회
+2022-03-08 15:45:45,771 - movie_logger - INFO - 485,장민호 드라마 최종회
+2022-03-08 15:45:45,814 - movie_logger - INFO - 486,장민호 드라마 최종회
+2022-03-08 15:45:45,857 - movie_logger - INFO - 487,장민호 드라마 최종회
+2022-03-08 15:45:45,900 - movie_logger - INFO - 488,장민호 드라마 최종회
+2022-03-08 15:45:45,944 - movie_logger - INFO - 489,장민호 드라마 최종회
+2022-03-08 15:45:45,987 - movie_logger - INFO - 490,장민호 드라마 최종회
+2022-03-08 15:45:46,125 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:46,178 - movie_logger - INFO - 491,장민호 드라마 최종회
+2022-03-08 15:45:46,222 - movie_logger - INFO - 492,장민호 드라마 최종회
+2022-03-08 15:45:46,265 - movie_logger - INFO - 493,장민호 드라마 최종회
+2022-03-08 15:45:46,305 - movie_logger - INFO - 494,장민호 드라마 최종회
+2022-03-08 15:45:46,348 - movie_logger - INFO - 495,장민호 드라마 최종회
+2022-03-08 15:45:46,391 - movie_logger - INFO - 496,장민호 드라마 최종회
+2022-03-08 15:45:46,433 - movie_logger - INFO - 497,장민호 드라마 최종회
+2022-03-08 15:45:46,478 - movie_logger - INFO - 498,장민호 드라마 최종회
+2022-03-08 15:45:46,522 - movie_logger - INFO - 499,장민호 드라마 최종회
+2022-03-08 15:45:46,564 - movie_logger - INFO - 500,장민호 드라마 최종회
+2022-03-08 15:45:46,698 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:46,747 - movie_logger - INFO - 501,장민호 드라마 최종회
+2022-03-08 15:45:46,794 - movie_logger - INFO - 502,장민호 드라마 최종회
+2022-03-08 15:45:46,839 - movie_logger - INFO - 503,장민호 드라마 최종회
+2022-03-08 15:45:46,883 - movie_logger - INFO - 504,장민호 드라마 최종회
+2022-03-08 15:45:46,926 - movie_logger - INFO - 505,장민호 드라마 최종회
+2022-03-08 15:45:46,972 - movie_logger - INFO - 506,장민호 드라마 최종회
+2022-03-08 15:45:47,014 - movie_logger - INFO - 507,장민호 드라마 최종회
+2022-03-08 15:45:47,058 - movie_logger - INFO - 508,장민호 드라마 최종회
+2022-03-08 15:45:47,101 - movie_logger - INFO - 509,장민호 드라마 최종회
+2022-03-08 15:45:47,145 - movie_logger - INFO - 510,장민호 드라마 최종회
+2022-03-08 15:45:47,278 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:47,326 - movie_logger - INFO - 511,장민호 드라마 최종회
+2022-03-08 15:45:47,374 - movie_logger - INFO - 512,장민호 드라마 최종회
+2022-03-08 15:45:47,422 - movie_logger - INFO - 513,장민호 드라마 최종회
+2022-03-08 15:45:47,466 - movie_logger - INFO - 514,장민호 드라마 최종회
+2022-03-08 15:45:47,512 - movie_logger - INFO - 515,장민호 드라마 최종회
+2022-03-08 15:45:47,557 - movie_logger - INFO - 516,장민호 드라마 최종회
+2022-03-08 15:45:47,599 - movie_logger - INFO - 517,장민호 드라마 최종회
+2022-03-08 15:45:47,641 - movie_logger - INFO - 518,장민호 드라마 최종회
+2022-03-08 15:45:47,684 - movie_logger - INFO - 519,장민호 드라마 최종회
+2022-03-08 15:45:47,730 - movie_logger - INFO - 520,장민호 드라마 최종회
+2022-03-08 15:45:47,868 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:47,920 - movie_logger - INFO - 521,장민호 드라마 최종회
+2022-03-08 15:45:47,967 - movie_logger - INFO - 522,장민호 드라마 최종회
+2022-03-08 15:45:48,014 - movie_logger - INFO - 523,장민호 드라마 최종회
+2022-03-08 15:45:48,060 - movie_logger - INFO - 524,장민호 드라마 최종회
+2022-03-08 15:45:48,105 - movie_logger - INFO - 525,장민호 드라마 최종회
+2022-03-08 15:45:48,150 - movie_logger - INFO - 526,장민호 드라마 최종회
+2022-03-08 15:45:48,193 - movie_logger - INFO - 527,장민호 드라마 최종회
+2022-03-08 15:45:48,237 - movie_logger - INFO - 528,장민호 드라마 최종회
+2022-03-08 15:45:48,280 - movie_logger - INFO - 529,장민호 드라마 최종회
+2022-03-08 15:45:48,323 - movie_logger - INFO - 530,장민호 드라마 최종회
+2022-03-08 15:45:48,463 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:48,515 - movie_logger - INFO - 531,장민호 드라마 최종회
+2022-03-08 15:45:48,563 - movie_logger - INFO - 532,장민호 드라마 최종회
+2022-03-08 15:45:48,607 - movie_logger - INFO - 533,장민호 드라마 최종회
+2022-03-08 15:45:48,651 - movie_logger - INFO - 534,장민호 드라마 최종회
+2022-03-08 15:45:48,694 - movie_logger - INFO - 535,장민호 드라마 최종회
+2022-03-08 15:45:48,738 - movie_logger - INFO - 536,장민호 드라마 최종회
+2022-03-08 15:45:48,781 - movie_logger - INFO - 537,장민호 드라마 최종회
+2022-03-08 15:45:48,824 - movie_logger - INFO - 538,장민호 드라마 최종회
+2022-03-08 15:45:48,869 - movie_logger - INFO - 539,장민호 드라마 최종회
+2022-03-08 15:45:48,912 - movie_logger - INFO - 540,장민호 드라마 최종회
+2022-03-08 15:45:49,048 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:49,099 - movie_logger - INFO - 541,장민호 드라마 최종회
+2022-03-08 15:45:49,144 - movie_logger - INFO - 542,장민호 드라마 최종회
+2022-03-08 15:45:49,190 - movie_logger - INFO - 543,장민호 드라마 최종회
+2022-03-08 15:45:49,234 - movie_logger - INFO - 544,장민호 드라마 최종회
+2022-03-08 15:45:49,277 - movie_logger - INFO - 545,장민호 드라마 최종회
+2022-03-08 15:45:49,320 - movie_logger - INFO - 546,장민호 드라마 최종회
+2022-03-08 15:45:49,365 - movie_logger - INFO - 547,장민호 드라마 최종회
+2022-03-08 15:45:49,410 - movie_logger - INFO - 548,장민호 드라마 최종회
+2022-03-08 15:45:49,456 - movie_logger - INFO - 549,장민호 드라마 최종회
+2022-03-08 15:45:49,501 - movie_logger - INFO - 550,장민호 드라마 최종회
+2022-03-08 15:45:49,641 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:49,690 - movie_logger - INFO - 551,장민호 드라마 최종회
+2022-03-08 15:45:49,735 - movie_logger - INFO - 552,장민호 드라마 최종회
+2022-03-08 15:45:49,781 - movie_logger - INFO - 553,장민호 드라마 최종회
+2022-03-08 15:45:49,827 - movie_logger - INFO - 554,장민호 드라마 최종회
+2022-03-08 15:45:49,872 - movie_logger - INFO - 555,장민호 드라마 최종회
+2022-03-08 15:45:49,918 - movie_logger - INFO - 556,장민호 드라마 최종회
+2022-03-08 15:45:49,967 - movie_logger - INFO - 557,장민호 드라마 최종회
+2022-03-08 15:45:50,015 - movie_logger - INFO - 558,장민호 드라마 최종회
+2022-03-08 15:45:50,061 - movie_logger - INFO - 559,장민호 드라마 최종회
+2022-03-08 15:45:50,109 - movie_logger - INFO - 560,장민호 드라마 최종회
+2022-03-08 15:45:50,249 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:50,303 - movie_logger - INFO - 561,장민호 드라마 최종회
+2022-03-08 15:45:50,349 - movie_logger - INFO - 562,장민호 드라마 최종회
+2022-03-08 15:45:50,399 - movie_logger - INFO - 563,장민호 드라마 최종회
+2022-03-08 15:45:50,447 - movie_logger - INFO - 564,장민호 드라마 최종회
+2022-03-08 15:45:50,496 - movie_logger - INFO - 565,장민호 드라마 최종회
+2022-03-08 15:45:50,544 - movie_logger - INFO - 566,장민호 드라마 최종회
+2022-03-08 15:45:50,589 - movie_logger - INFO - 567,장민호 드라마 최종회
+2022-03-08 15:45:50,634 - movie_logger - INFO - 568,장민호 드라마 최종회
+2022-03-08 15:45:50,679 - movie_logger - INFO - 569,장민호 드라마 최종회
+2022-03-08 15:45:50,724 - movie_logger - INFO - 570,장민호 드라마 최종회
+2022-03-08 15:45:50,861 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:50,915 - movie_logger - INFO - 571,장민호 드라마 최종회
+2022-03-08 15:45:50,960 - movie_logger - INFO - 572,장민호 드라마 최종회
+2022-03-08 15:45:51,006 - movie_logger - INFO - 573,장민호 드라마 최종회
+2022-03-08 15:45:51,054 - movie_logger - INFO - 574,장민호 드라마 최종회
+2022-03-08 15:45:51,098 - movie_logger - INFO - 575,장민호 드라마 최종회
+2022-03-08 15:45:51,143 - movie_logger - INFO - 576,장민호 드라마 최종회
+2022-03-08 15:45:51,186 - movie_logger - INFO - 577,장민호 드라마 최종회
+2022-03-08 15:45:51,230 - movie_logger - INFO - 578,장민호 드라마 최종회
+2022-03-08 15:45:51,275 - movie_logger - INFO - 579,장민호 드라마 최종회
+2022-03-08 15:45:51,321 - movie_logger - INFO - 580,장민호 드라마 최종회
+2022-03-08 15:45:51,458 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:45:51,513 - movie_logger - INFO - 581,장민호 드라마 최종회
+2022-03-08 15:45:51,562 - movie_logger - INFO - 582,장민호 드라마 최종회
+2022-03-08 15:45:51,612 - movie_logger - INFO - 583,장민호 드라마 최종회
+2022-03-08 15:45:51,617 - movie_logger - ERROR - 장민호 드라마 최종회 수집완료
+2022-03-08 15:45:56,644 - movie_logger - INFO - 가상브라우저 실행...
+2022-03-08 15:45:56,934 - movie_logger - INFO - 네이버 영화 랭킹 1페이지이동...
+2022-03-08 15:45:57,832 - movie_logger - INFO - 영화 평점 클릭...
+2022-03-08 15:45:57,851 - movie_logger - INFO - 영화 제목 수집 : 그린 북
+2022-03-08 15:45:57,869 - movie_logger - INFO - iframe으로 전환
+2022-03-08 15:45:57,907 - movie_logger - INFO - 1,그린 북
+2022-03-08 15:45:57,939 - movie_logger - INFO - 2,그린 북
+2022-03-08 15:45:57,968 - movie_logger - INFO - 3,그린 북
+2022-03-08 15:45:57,999 - movie_logger - INFO - 4,그린 북
+2022-03-08 15:45:58,028 - movie_logger - INFO - 5,그린 북
+2022-03-08 15:45:58,060 - movie_logger - INFO - 6,그린 북
+2022-03-08 15:45:58,090 - movie_logger - INFO - 7,그린 북
+2022-03-08 15:45:58,122 - movie_logger - INFO - 8,그린 북
+2022-03-08 15:45:58,167 - movie_logger - INFO - 9,그린 북
+2022-03-08 15:45:58,197 - movie_logger - INFO - 10,그린 북
+2022-03-08 15:46:00,354 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:00,395 - movie_logger - INFO - 11,그린 북
+2022-03-08 15:46:00,428 - movie_logger - INFO - 12,그린 북
+2022-03-08 15:46:00,458 - movie_logger - INFO - 13,그린 북
+2022-03-08 15:46:00,494 - movie_logger - INFO - 14,그린 북
+2022-03-08 15:46:00,530 - movie_logger - INFO - 15,그린 북
+2022-03-08 15:46:00,562 - movie_logger - INFO - 16,그린 북
+2022-03-08 15:46:00,591 - movie_logger - INFO - 17,그린 북
+2022-03-08 15:46:00,625 - movie_logger - INFO - 18,그린 북
+2022-03-08 15:46:00,659 - movie_logger - INFO - 19,그린 북
+2022-03-08 15:46:00,692 - movie_logger - INFO - 20,그린 북
+2022-03-08 15:46:00,849 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:00,884 - movie_logger - INFO - 21,그린 북
+2022-03-08 15:46:00,914 - movie_logger - INFO - 22,그린 북
+2022-03-08 15:46:00,944 - movie_logger - INFO - 23,그린 북
+2022-03-08 15:46:00,974 - movie_logger - INFO - 24,그린 북
+2022-03-08 15:46:01,005 - movie_logger - INFO - 25,그린 북
+2022-03-08 15:46:01,035 - movie_logger - INFO - 26,그린 북
+2022-03-08 15:46:01,065 - movie_logger - INFO - 27,그린 북
+2022-03-08 15:46:01,096 - movie_logger - INFO - 28,그린 북
+2022-03-08 15:46:01,125 - movie_logger - INFO - 29,그린 북
+2022-03-08 15:46:01,157 - movie_logger - INFO - 30,그린 북
+2022-03-08 15:46:01,298 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:01,333 - movie_logger - INFO - 31,그린 북
+2022-03-08 15:46:01,365 - movie_logger - INFO - 32,그린 북
+2022-03-08 15:46:01,395 - movie_logger - INFO - 33,그린 북
+2022-03-08 15:46:01,425 - movie_logger - INFO - 34,그린 북
+2022-03-08 15:46:01,456 - movie_logger - INFO - 35,그린 북
+2022-03-08 15:46:01,486 - movie_logger - INFO - 36,그린 북
+2022-03-08 15:46:01,515 - movie_logger - INFO - 37,그린 북
+2022-03-08 15:46:01,546 - movie_logger - INFO - 38,그린 북
+2022-03-08 15:46:01,577 - movie_logger - INFO - 39,그린 북
+2022-03-08 15:46:01,607 - movie_logger - INFO - 40,그린 북
+2022-03-08 15:46:01,751 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:01,786 - movie_logger - INFO - 41,그린 북
+2022-03-08 15:46:01,817 - movie_logger - INFO - 42,그린 북
+2022-03-08 15:46:01,848 - movie_logger - INFO - 43,그린 북
+2022-03-08 15:46:01,879 - movie_logger - INFO - 44,그린 북
+2022-03-08 15:46:01,911 - movie_logger - INFO - 45,그린 북
+2022-03-08 15:46:01,943 - movie_logger - INFO - 46,그린 북
+2022-03-08 15:46:01,974 - movie_logger - INFO - 47,그린 북
+2022-03-08 15:46:02,004 - movie_logger - INFO - 48,그린 북
+2022-03-08 15:46:02,034 - movie_logger - INFO - 49,그린 북
+2022-03-08 15:46:02,064 - movie_logger - INFO - 50,그린 북
+2022-03-08 15:46:02,204 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:02,241 - movie_logger - INFO - 51,그린 북
+2022-03-08 15:46:02,272 - movie_logger - INFO - 52,그린 북
+2022-03-08 15:46:02,302 - movie_logger - INFO - 53,그린 북
+2022-03-08 15:46:02,331 - movie_logger - INFO - 54,그린 북
+2022-03-08 15:46:02,361 - movie_logger - INFO - 55,그린 북
+2022-03-08 15:46:02,392 - movie_logger - INFO - 56,그린 북
+2022-03-08 15:46:02,423 - movie_logger - INFO - 57,그린 북
+2022-03-08 15:46:02,467 - movie_logger - INFO - 58,그린 북
+2022-03-08 15:46:02,498 - movie_logger - INFO - 59,그린 북
+2022-03-08 15:46:02,528 - movie_logger - INFO - 60,그린 북
+2022-03-08 15:46:02,672 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:02,712 - movie_logger - INFO - 61,그린 북
+2022-03-08 15:46:02,744 - movie_logger - INFO - 62,그린 북
+2022-03-08 15:46:02,777 - movie_logger - INFO - 63,그린 북
+2022-03-08 15:46:02,809 - movie_logger - INFO - 64,그린 북
+2022-03-08 15:46:02,842 - movie_logger - INFO - 65,그린 북
+2022-03-08 15:46:02,873 - movie_logger - INFO - 66,그린 북
+2022-03-08 15:46:02,904 - movie_logger - INFO - 67,그린 북
+2022-03-08 15:46:02,935 - movie_logger - INFO - 68,그린 북
+2022-03-08 15:46:02,968 - movie_logger - INFO - 69,그린 북
+2022-03-08 15:46:03,001 - movie_logger - INFO - 70,그린 북
+2022-03-08 15:46:03,134 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:03,169 - movie_logger - INFO - 71,그린 북
+2022-03-08 15:46:03,199 - movie_logger - INFO - 72,그린 북
+2022-03-08 15:46:03,229 - movie_logger - INFO - 73,그린 북
+2022-03-08 15:46:03,260 - movie_logger - INFO - 74,그린 북
+2022-03-08 15:46:03,292 - movie_logger - INFO - 75,그린 북
+2022-03-08 15:46:03,324 - movie_logger - INFO - 76,그린 북
+2022-03-08 15:46:03,356 - movie_logger - INFO - 77,그린 북
+2022-03-08 15:46:03,389 - movie_logger - INFO - 78,그린 북
+2022-03-08 15:46:03,422 - movie_logger - INFO - 79,그린 북
+2022-03-08 15:46:03,455 - movie_logger - INFO - 80,그린 북
+2022-03-08 15:46:03,605 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:03,645 - movie_logger - INFO - 81,그린 북
+2022-03-08 15:46:03,679 - movie_logger - INFO - 82,그린 북
+2022-03-08 15:46:03,712 - movie_logger - INFO - 83,그린 북
+2022-03-08 15:46:03,744 - movie_logger - INFO - 84,그린 북
+2022-03-08 15:46:03,777 - movie_logger - INFO - 85,그린 북
+2022-03-08 15:46:03,808 - movie_logger - INFO - 86,그린 북
+2022-03-08 15:46:03,839 - movie_logger - INFO - 87,그린 북
+2022-03-08 15:46:03,871 - movie_logger - INFO - 88,그린 북
+2022-03-08 15:46:03,902 - movie_logger - INFO - 89,그린 북
+2022-03-08 15:46:03,935 - movie_logger - INFO - 90,그린 북
+2022-03-08 15:46:04,083 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:04,120 - movie_logger - INFO - 91,그린 북
+2022-03-08 15:46:04,153 - movie_logger - INFO - 92,그린 북
+2022-03-08 15:46:04,185 - movie_logger - INFO - 93,그린 북
+2022-03-08 15:46:04,216 - movie_logger - INFO - 94,그린 북
+2022-03-08 15:46:04,248 - movie_logger - INFO - 95,그린 북
+2022-03-08 15:46:04,281 - movie_logger - INFO - 96,그린 북
+2022-03-08 15:46:04,312 - movie_logger - INFO - 97,그린 북
+2022-03-08 15:46:04,344 - movie_logger - INFO - 98,그린 북
+2022-03-08 15:46:04,376 - movie_logger - INFO - 99,그린 북
+2022-03-08 15:46:04,410 - movie_logger - INFO - 100,그린 북
+2022-03-08 15:46:04,546 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:04,585 - movie_logger - INFO - 101,그린 북
+2022-03-08 15:46:04,618 - movie_logger - INFO - 102,그린 북
+2022-03-08 15:46:04,648 - movie_logger - INFO - 103,그린 북
+2022-03-08 15:46:04,679 - movie_logger - INFO - 104,그린 북
+2022-03-08 15:46:04,714 - movie_logger - INFO - 105,그린 북
+2022-03-08 15:46:04,746 - movie_logger - INFO - 106,그린 북
+2022-03-08 15:46:04,778 - movie_logger - INFO - 107,그린 북
+2022-03-08 15:46:04,809 - movie_logger - INFO - 108,그린 북
+2022-03-08 15:46:04,841 - movie_logger - INFO - 109,그린 북
+2022-03-08 15:46:04,873 - movie_logger - INFO - 110,그린 북
+2022-03-08 15:46:05,269 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:05,308 - movie_logger - INFO - 111,그린 북
+2022-03-08 15:46:05,342 - movie_logger - INFO - 112,그린 북
+2022-03-08 15:46:05,374 - movie_logger - INFO - 113,그린 북
+2022-03-08 15:46:05,406 - movie_logger - INFO - 114,그린 북
+2022-03-08 15:46:05,439 - movie_logger - INFO - 115,그린 북
+2022-03-08 15:46:05,471 - movie_logger - INFO - 116,그린 북
+2022-03-08 15:46:05,504 - movie_logger - INFO - 117,그린 북
+2022-03-08 15:46:05,536 - movie_logger - INFO - 118,그린 북
+2022-03-08 15:46:05,567 - movie_logger - INFO - 119,그린 북
+2022-03-08 15:46:05,599 - movie_logger - INFO - 120,그린 북
+2022-03-08 15:46:05,745 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:05,781 - movie_logger - INFO - 121,그린 북
+2022-03-08 15:46:05,815 - movie_logger - INFO - 122,그린 북
+2022-03-08 15:46:05,848 - movie_logger - INFO - 123,그린 북
+2022-03-08 15:46:05,884 - movie_logger - INFO - 124,그린 북
+2022-03-08 15:46:05,919 - movie_logger - INFO - 125,그린 북
+2022-03-08 15:46:05,953 - movie_logger - INFO - 126,그린 북
+2022-03-08 15:46:05,985 - movie_logger - INFO - 127,그린 북
+2022-03-08 15:46:06,020 - movie_logger - INFO - 128,그린 북
+2022-03-08 15:46:06,051 - movie_logger - INFO - 129,그린 북
+2022-03-08 15:46:06,085 - movie_logger - INFO - 130,그린 북
+2022-03-08 15:46:06,197 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:06,237 - movie_logger - INFO - 131,그린 북
+2022-03-08 15:46:06,272 - movie_logger - INFO - 132,그린 북
+2022-03-08 15:46:06,305 - movie_logger - INFO - 133,그린 북
+2022-03-08 15:46:06,339 - movie_logger - INFO - 134,그린 북
+2022-03-08 15:46:06,371 - movie_logger - INFO - 135,그린 북
+2022-03-08 15:46:06,405 - movie_logger - INFO - 136,그린 북
+2022-03-08 15:46:06,436 - movie_logger - INFO - 137,그린 북
+2022-03-08 15:46:06,470 - movie_logger - INFO - 138,그린 북
+2022-03-08 15:46:06,505 - movie_logger - INFO - 139,그린 북
+2022-03-08 15:46:06,538 - movie_logger - INFO - 140,그린 북
+2022-03-08 15:46:06,675 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:06,718 - movie_logger - INFO - 141,그린 북
+2022-03-08 15:46:06,753 - movie_logger - INFO - 142,그린 북
+2022-03-08 15:46:06,788 - movie_logger - INFO - 143,그린 북
+2022-03-08 15:46:06,820 - movie_logger - INFO - 144,그린 북
+2022-03-08 15:46:06,852 - movie_logger - INFO - 145,그린 북
+2022-03-08 15:46:06,886 - movie_logger - INFO - 146,그린 북
+2022-03-08 15:46:06,920 - movie_logger - INFO - 147,그린 북
+2022-03-08 15:46:06,952 - movie_logger - INFO - 148,그린 북
+2022-03-08 15:46:06,986 - movie_logger - INFO - 149,그린 북
+2022-03-08 15:46:07,018 - movie_logger - INFO - 150,그린 북
+2022-03-08 15:46:07,160 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:07,199 - movie_logger - INFO - 151,그린 북
+2022-03-08 15:46:07,232 - movie_logger - INFO - 152,그린 북
+2022-03-08 15:46:07,266 - movie_logger - INFO - 153,그린 북
+2022-03-08 15:46:07,298 - movie_logger - INFO - 154,그린 북
+2022-03-08 15:46:07,334 - movie_logger - INFO - 155,그린 북
+2022-03-08 15:46:07,368 - movie_logger - INFO - 156,그린 북
+2022-03-08 15:46:07,402 - movie_logger - INFO - 157,그린 북
+2022-03-08 15:46:07,437 - movie_logger - INFO - 158,그린 북
+2022-03-08 15:46:07,472 - movie_logger - INFO - 159,그린 북
+2022-03-08 15:46:07,506 - movie_logger - INFO - 160,그린 북
+2022-03-08 15:46:07,638 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:07,681 - movie_logger - INFO - 161,그린 북
+2022-03-08 15:46:07,717 - movie_logger - INFO - 162,그린 북
+2022-03-08 15:46:07,751 - movie_logger - INFO - 163,그린 북
+2022-03-08 15:46:07,784 - movie_logger - INFO - 164,그린 북
+2022-03-08 15:46:07,818 - movie_logger - INFO - 165,그린 북
+2022-03-08 15:46:07,852 - movie_logger - INFO - 166,그린 북
+2022-03-08 15:46:07,886 - movie_logger - INFO - 167,그린 북
+2022-03-08 15:46:07,922 - movie_logger - INFO - 168,그린 북
+2022-03-08 15:46:07,959 - movie_logger - INFO - 169,그린 북
+2022-03-08 15:46:07,992 - movie_logger - INFO - 170,그린 북
+2022-03-08 15:46:08,129 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:08,168 - movie_logger - INFO - 171,그린 북
+2022-03-08 15:46:08,204 - movie_logger - INFO - 172,그린 북
+2022-03-08 15:46:08,240 - movie_logger - INFO - 173,그린 북
+2022-03-08 15:46:08,273 - movie_logger - INFO - 174,그린 북
+2022-03-08 15:46:08,307 - movie_logger - INFO - 175,그린 북
+2022-03-08 15:46:08,340 - movie_logger - INFO - 176,그린 북
+2022-03-08 15:46:08,375 - movie_logger - INFO - 177,그린 북
+2022-03-08 15:46:08,411 - movie_logger - INFO - 178,그린 북
+2022-03-08 15:46:08,446 - movie_logger - INFO - 179,그린 북
+2022-03-08 15:46:08,480 - movie_logger - INFO - 180,그린 북
+2022-03-08 15:46:08,612 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:08,653 - movie_logger - INFO - 181,그린 북
+2022-03-08 15:46:08,689 - movie_logger - INFO - 182,그린 북
+2022-03-08 15:46:08,723 - movie_logger - INFO - 183,그린 북
+2022-03-08 15:46:08,757 - movie_logger - INFO - 184,그린 북
+2022-03-08 15:46:08,793 - movie_logger - INFO - 185,그린 북
+2022-03-08 15:46:08,828 - movie_logger - INFO - 186,그린 북
+2022-03-08 15:46:08,863 - movie_logger - INFO - 187,그린 북
+2022-03-08 15:46:08,897 - movie_logger - INFO - 188,그린 북
+2022-03-08 15:46:08,931 - movie_logger - INFO - 189,그린 북
+2022-03-08 15:46:08,965 - movie_logger - INFO - 190,그린 북
+2022-03-08 15:46:09,111 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:09,153 - movie_logger - INFO - 191,그린 북
+2022-03-08 15:46:09,186 - movie_logger - INFO - 192,그린 북
+2022-03-08 15:46:09,222 - movie_logger - INFO - 193,그린 북
+2022-03-08 15:46:09,256 - movie_logger - INFO - 194,그린 북
+2022-03-08 15:46:09,290 - movie_logger - INFO - 195,그린 북
+2022-03-08 15:46:09,324 - movie_logger - INFO - 196,그린 북
+2022-03-08 15:46:09,359 - movie_logger - INFO - 197,그린 북
+2022-03-08 15:46:09,393 - movie_logger - INFO - 198,그린 북
+2022-03-08 15:46:09,435 - movie_logger - INFO - 199,그린 북
+2022-03-08 15:46:09,472 - movie_logger - INFO - 200,그린 북
+2022-03-08 15:46:09,615 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:09,656 - movie_logger - INFO - 201,그린 북
+2022-03-08 15:46:09,693 - movie_logger - INFO - 202,그린 북
+2022-03-08 15:46:09,730 - movie_logger - INFO - 203,그린 북
+2022-03-08 15:46:09,764 - movie_logger - INFO - 204,그린 북
+2022-03-08 15:46:09,799 - movie_logger - INFO - 205,그린 북
+2022-03-08 15:46:09,832 - movie_logger - INFO - 206,그린 북
+2022-03-08 15:46:09,868 - movie_logger - INFO - 207,그린 북
+2022-03-08 15:46:09,904 - movie_logger - INFO - 208,그린 북
+2022-03-08 15:46:09,937 - movie_logger - INFO - 209,그린 북
+2022-03-08 15:46:09,972 - movie_logger - INFO - 210,그린 북
+2022-03-08 15:46:10,120 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:10,163 - movie_logger - INFO - 211,그린 북
+2022-03-08 15:46:10,201 - movie_logger - INFO - 212,그린 북
+2022-03-08 15:46:10,238 - movie_logger - INFO - 213,그린 북
+2022-03-08 15:46:10,273 - movie_logger - INFO - 214,그린 북
+2022-03-08 15:46:10,308 - movie_logger - INFO - 215,그린 북
+2022-03-08 15:46:10,342 - movie_logger - INFO - 216,그린 북
+2022-03-08 15:46:10,377 - movie_logger - INFO - 217,그린 북
+2022-03-08 15:46:10,411 - movie_logger - INFO - 218,그린 북
+2022-03-08 15:46:10,448 - movie_logger - INFO - 219,그린 북
+2022-03-08 15:46:10,483 - movie_logger - INFO - 220,그린 북
+2022-03-08 15:46:10,618 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:10,659 - movie_logger - INFO - 221,그린 북
+2022-03-08 15:46:10,694 - movie_logger - INFO - 222,그린 북
+2022-03-08 15:46:10,731 - movie_logger - INFO - 223,그린 북
+2022-03-08 15:46:10,776 - movie_logger - INFO - 224,그린 북
+2022-03-08 15:46:10,812 - movie_logger - INFO - 225,그린 북
+2022-03-08 15:46:10,848 - movie_logger - INFO - 226,그린 북
+2022-03-08 15:46:10,884 - movie_logger - INFO - 227,그린 북
+2022-03-08 15:46:10,919 - movie_logger - INFO - 228,그린 북
+2022-03-08 15:46:10,955 - movie_logger - INFO - 229,그린 북
+2022-03-08 15:46:10,996 - movie_logger - INFO - 230,그린 북
+2022-03-08 15:46:11,131 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:11,173 - movie_logger - INFO - 231,그린 북
+2022-03-08 15:46:11,212 - movie_logger - INFO - 232,그린 북
+2022-03-08 15:46:11,248 - movie_logger - INFO - 233,그린 북
+2022-03-08 15:46:11,283 - movie_logger - INFO - 234,그린 북
+2022-03-08 15:46:11,318 - movie_logger - INFO - 235,그린 북
+2022-03-08 15:46:11,356 - movie_logger - INFO - 236,그린 북
+2022-03-08 15:46:11,393 - movie_logger - INFO - 237,그린 북
+2022-03-08 15:46:11,429 - movie_logger - INFO - 238,그린 북
+2022-03-08 15:46:11,467 - movie_logger - INFO - 239,그린 북
+2022-03-08 15:46:11,505 - movie_logger - INFO - 240,그린 북
+2022-03-08 15:46:11,637 - movie_logger - INFO - 다음페이지 클릭
+2022-03-08 15:46:11,678 - movie_logger - INFO - 241,그린 북
+2022-03-08 15:46:11,718 - movie_logger - INFO - 242,그린 북
+2022-03-08 15:46:11,755 - movie_logger - INFO - 243,그린 북
+2022-03-08 15:46:11,791 - movie_logger - INFO - 244,그린 북
+2022-03-08 15:46:11,826 - movie_logger - INFO - 245,그린 북
+2022-03-08 15:46:11,863 - movie_logger - INFO - 246,그린 북
+2022-03-08 15:46:11,899 - movie_logger - INFO - 247,그린 북
+2022-03-08 15:46:11,934 - movie_logger - INFO - 248,그린 북
+2022-03-08 15:46:11,972 - movie_logger - INFO - 249,그린 북
+2022-03-08 15:46:12,012 - movie_logger - INFO - 250,그린 북
+2022-03-08 15:46:12,087 - movie_logger - INFO - 다음페이지 클릭

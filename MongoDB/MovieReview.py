@@ -15,7 +15,7 @@ import time
 # mongodb 접속
 conn = mongo('mongodb://mydb:1234@192.168.56.101:27017')
 db = conn.get_database('NaverMovie')
-collection = db.get_collection('review1')
+collection = db.get_collection('review')
 
 # 로거 생성
 logger = logging.getLogger('movie_logger')
@@ -30,18 +30,23 @@ log_handler.setFormatter(formatter)
 logger.addHandler(log_handler)
 
 
-# 가상 브라우저 실행
-browser = webdriver.Chrome('./chromedriver.exe')
-logger.info('가상브라우저 실행...')
-
+# 가상 브라우저 실행(헤드리스 모드)
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6)")
 
 rank = 1
 page = 1
 
 while True:
+    browser = webdriver.Chrome('./chromedriver.exe', options=options)
+    logger.info('가상브라우저 실행...')
+
     # 네이버 영화 랭크
     browser.get('https://movie.naver.com/movie/sdb/rank/rmovie.naver?sel=pnt&page=%d' % page)
-    logger.info('네이버 영화 랭킹 {}페이지이동...'.format(page))
+    logger.info(f'네이버 영화 랭킹 {page}페이지이동...')
 
     # 영화 제목 클릭
     tags_a_titles = browser.find_elements(By.CSS_SELECTOR, '#old_content > table > tbody > tr > td.title > div > a')
@@ -82,10 +87,10 @@ while True:
             score = li.find_element(By.CSS_SELECTOR, '.star_score > em').text
             reple = li.find_element(By.CSS_SELECTOR, '.score_reple > p > span:last-child').text
 
-            # print('{},{},{},{}'.format(count, title, reple, score))
-            collection.insert_one({'count':count, 'title':title, 'reple':reple,'score':score})
-            logger.info('{},{}'.format(count, title))
-            file.write('{},{},{},{}\n'.format(count, title, reple, score))
+            # print(f'{count},{title},{reple},{score}')
+            collection.insert_one({'count': count, 'title': title, 'reple': reple, 'score': score})
+            logger.info(f'{count},{title}')
+            # file.write(f'{count},{title},{reple},{score}\n')
 
             count += 1
 
@@ -95,7 +100,8 @@ while True:
             tag_a_next.click()
             logger.info('다음페이지 클릭')
         except:
-            logger.error('{} 수집완료'.format(title))
+            logger.error(f'{title} 수집완료')
+            browser.quit()
             break
 
     # 다음 순위 영화
